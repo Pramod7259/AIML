@@ -1,0 +1,7 @@
+student_id,name,dept,math_marks,science_marks,Total_Marks
+S001,Anu,CSE,85.0,78.0,163.0
+S002,Ravi,ECE,90.0,88.0,178.0
+S003,Meena,CSE,75.0,82.0,157.0
+S004,Kiran,MECH,,,159.0
+S005,,,80.0,79.0,
+S006,adi,AUTO,90.0,97.0,187.0
