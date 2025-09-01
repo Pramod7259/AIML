@@ -1,0 +1,33 @@
+class Queue:
+    def __init__ (self):
+        self.Q=[ ]
+        self.size=3
+    def enqueue(self,item):
+            self.Q.append(item)
+            print("Added elements of Q is :",self.Q)
+    def dequeue(self):
+            print("The removed elements are :",self.Q.pop(0))
+    def display(self):
+        print("The Queue elements are :",self.Q)        
+            
+#Main Program 
+
+obj=Queue()
+obj.enqueue('A')
+obj.enqueue('B')
+obj.enqueue('C')
+obj.enqueue('D')
+obj.display()
+
+obj.dequeue()
+obj.dequeue()
+obj.dequeue()
+obj.dequeue()
+
+obj.display()
+
+
+
+           
+              
+                

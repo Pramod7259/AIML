@@ -1,0 +1,38 @@
+class Stack:
+    def __init__ (self):
+        self.S=[ ]
+        self.size=3
+    def push(self,item):
+        if len(self.S) >= self.size:
+            print("Stack is full")
+        else:
+            self.S.append(item)
+            print("Added element of stack is :",self.S)
+    def pop(self):
+        if len(self.S)==0:
+            print("Stack is empty")
+        else:
+            print("The removed elements are :",self.S.pop(-1))
+    def display(self):
+        print("Stack elements are :",self.S)      
+#Main Program 
+
+obj=Stack()
+obj.push(10)
+obj.push(20)
+obj.push(30)
+obj.push(40)
+
+obj.display()
+
+obj.pop()
+obj.pop()
+obj.pop()
+obj.display()
+obj.pop()
+
+
+
+           
+              
+                

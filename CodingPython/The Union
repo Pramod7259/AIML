@@ -1,0 +1,10 @@
+a={"🍎","🍊", "🍌","🥭",} 
+b={"🍉","🍓","🍒","🍎","🥭"}
+c=a|b
+print("The Union is :-",c)
+c=a&b
+print("The intersection is :-",c)
+c=a-b
+print("The diffrence is :-",c)
+c=a^b
+print("The symetric_diffrence is :-",c)

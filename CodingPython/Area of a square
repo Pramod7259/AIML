@@ -1,0 +1,4 @@
+h=int(input("Enter the height :-"))
+b=int(input("Enter the bright :-"))
+area=h*b
+print("The are of a square is :",area)

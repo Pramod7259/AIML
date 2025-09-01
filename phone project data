@@ -1,0 +1,1512 @@
+,phone_name,brand,os,battery,battery_type,ram(GB),weight(g),storage(GB),video_720p,price(USD $)
+0,Y6II Compact,Huawei,Android 5.1,2200,Li-Po,2,140,16.0,True,120.0
+1,K20 plus,LG,Android 7.0,2700,Li-Ion,2,140,16.0,False,100.0
+2,P8 Lite (2017),Huawei,Android 7.0,3000,Li-Ion,4,147,16.0,False,420.0
+3,Redmi Note 4,Xiaomi,Android 6.0,4100,Li-Po,4,165,32.0,True,150.0
+4,P10,Huawei,Android 7.0,3200,Li-Ion,4,145,32.0,True,420.0
+5,Xperia XA1,Sony,Android 7.0,2300,Li-Ion,3,143,32.0,False,140.0
+6,P10 Lite,Huawei,Android 7.0,3000,Li-Po,4,146,32.0,False,420.0
+7,P10 Plus,Huawei,Android 7.0,3750,Li-Ion,6,165,64.0,True,170.0
+8,Xperia XA1 Ultra,Sony,Android 7.0,2700,Li-Ion,4,188,32.0,False,250.0
+9,X power2,LG,Android 7.0,4500,Li-Ion,2,164,16.0,True,170.0
+10,Redmi Note 4X,Xiaomi,Android 6.0,4100,Li-Po,4,165,16.0,True,130.0
+11,Xperia XZs,Sony,Android 7.1,2900,Li-Ion,4,161,32.0,True,220.0
+12,Xperia XZ Premium,Sony,Android 7.1,3230,Li-Ion,4,195,64.0,True,320.0
+13,Xperia L1,Sony,Android 7.0,2620,Li-Ion,2,180,16.0,False,110.0
+14,A39,Oppo,Android 5.1,2900,Li-Ion,3,147,32.0,False,250.0
+15,F3 Plus,Oppo,Android 6,4000,Li-Ion,6,185,64.0,True,250.0
+16,Galaxy Xcover 4,Samsung,Android 7.0,2800,Li-Ion,2,172,16.0,False,350.0
+17,Galaxy J7 V,Samsung,Android 7.0.1,3300,Li-Ion,2,167,16.0,False,170.0
+18,Galaxy S8+,Samsung,Android 7.0,3500,Li-Ion,6,173,64.0,True,350.0
+19,K7 (2017),LG,Android 6.0.1,2500,Li-Ion,2,143,8.0,True,170.0
+20,Y5 (2017),Huawei,Android 6.0,3000,Li-Ion,2,150,16.0,False,280.0
+21,Harmony,LG,Android 7.0,2800,Li-Ion,5,141,16.0,False,160.0
+22,Mi 6,Xiaomi,Android 7.1.1,3350,Li-Po,6,168,64.0,True,330.0
+23,Y6 (2017),Huawei,Android 6.0,3000,Li-Ion,2,150,16.0,False,240.0
+24,Y7,Huawei,Android 7.0,4000,Li-Ion,2,165,16.0,False,90.0
+25,nova 2 plus,Huawei,Android 7.0,3340,Li-Po,4,169,64.0,False,160.0
+26,nova 2,Huawei,Android 7.0,2950,Li-Po,4,143,64.0,False,140.0
+27,Y3 (2017),Huawei,Android 6.0,2200,Li-Ion,1,175,8.0,True,230.0
+28,Z4,Samsung,Tizen 3.0,2050,Li-Ion,1,143,8.0,True,240.0
+29,Mi Max 2,Xiaomi,Android 7.1.1,5300,Li-Ion,4,211,32.0,True,200.0
+30,Redmi 4 (4X),Xiaomi,Android 6.0.1,4100,Li-Po,4,150,16.0,False,110.0
+31,Stylo 3 Plus,LG,Android 7.0,3080,Li-Ion,2,150,32.0,False,90.0
+32,F3,Oppo,Android 6,3200,Li-Ion,4,153,64.0,False,250.0
+33,X venture,LG,Android 7.0,4100,Li-Ion,2,166,32.0,False,180.0
+34,A77 (Mediatek),Oppo,Android 6,3200,Li-Ion,4,153,64.0,False,250.0
+35,R11,Oppo,Android 7.1.1,3000,Li-Po,6,150,64.0,True,250.0
+36,R11 Plus,Oppo,Android 7.1.1,4000,Li-Po,6,188,64.0,True,250.0
+37,Galaxy J7 Max,Samsung,Android 7.0,3300,Li-Ion,4,179,32.0,False,200.0
+38,Galaxy J7 (2017),Samsung,Android 7.0,3600,Li-Ion,3,181,16.0,False,130.0
+39,Galaxy J7 Pro,Samsung,Android 7.0,3600,Li-Ion,3,181,16.0,False,200.0
+40,Galaxy J5 (2017),Samsung,Android 7.0,3000,Li-Ion,3,160,16.0,False,80.0
+41,Y7 Prime,Huawei,Android 7.0,4000,Li-Ion,3,165,32.0,False,130.0
+42,A77 (2017),Oppo,Android 7.1,3200,Li-Ion,4,148,64.0,False,250.0
+43,Q8 (2017),LG,Android 7.0,3000,Li-Ion,4,146,32.0,True,110.0
+44,Q6,LG,Android 7.1.1,3000,Li-Po,4,149,16.0,False,200.0
+45,Galaxy Folder2,Samsung,Android 6.0,1950,Li-Ion,3,165,16.0,False,430.0
+46,Galaxy Note FE,Samsung,Android 7.1.1,3200,Li-Ion,4,167,64.0,True,200.0
+47,P9 lite mini,Huawei,Android 7.0,3020,Li-Ion,2,145,16.0,False,250.0
+48,Xperia XZ1 Compact,Sony,Android 8.0,2700,Li-Ion,4,140,32.0,True,300.0
+49,Galaxy S8 Active,Samsung,Android 7.0,4000,Li-Ion,4,208,64.0,True,500.0
+50,Xperia XA1 Plus,Sony,Android 7.0,3430,Li-Ion,4,189,32.0,False,150.0
+51,K8 Note,Lenovo,Android 7.1.1,4000,Li-Po,4,180,32.0,False,200.0
+52,Galaxy Note8,Samsung,Android 7.1.1,3300,Li-Ion,6,195,64.0,True,210.0
+53,V30,LG,Android 7.1.2,3300,Li-Po,4,158,64.0,True,200.0
+54,Xperia XZ1,Sony,Android 8.0,2700,Li-Ion,4,155,64.0,True,260.0
+55,Mi A1 (Mi 5X),Xiaomi,Android 7.1.2,3080,Li-Po,4,165,32.0,True,170.0
+56,Mi Mix 2,Xiaomi,Android 7.1,3400,Li-Ion,8,185,64.0,True,410.0
+57,Mi Note 3,Xiaomi,Android 7.1,3500,Li-Ion,6,163,64.0,True,280.0
+58,K8,Lenovo,Android 7.1.1,4000,Li-Po,3,165,32.0,False,200.0
+59,Galaxy C7 (2017),Samsung,Android 7.1,3000,Li-Ion,4,180,,False,550.0
+60,K8 Plus,Lenovo,Android 7.1.1,4000,Li-Po,4,165,32.0,False,180.0
+61,iPhone 8,Apple,iOS 11,1821,Li-Ion,2,148,64.0,True,210.0
+62,iPhone X,Apple,iOS 11.1.1,2716,Li-Ion,3,174,64.0,True,280.0
+63,R11s,Oppo,Android 7.1.1,3200,Li-Po,4,153,64.0,True,260.0
+64,F5,Oppo,Android 7.1.1,3200,Li-Ion,6,152,32.0,False,150.0
+65,Xperia R1 (Plus),Sony,Android 7.1,2620,Li-Ion,3,154,16.0,False,168.0
+66,Mate 10 Pro,Huawei,Android 8.0,4000,Li-Po,6,178,64.0,True,150.0
+67,Mate 10,Huawei,Android 8.0,4000,Li-Po,4,186,64.0,True,180.0
+68,Galaxy J2 (2017),Samsung,Android 7.0,2000,Li-Ion,1,130,8.0,True,500.0
+69,Mate 10 Lite,Huawei,Android 7.0,3340,Li-Ion,4,164,64.0,False,300.0
+70,Mate 10 Porsche Design,Huawei,Android 8.0,4000,Li-Po,6,178,256.0,True,190.0
+71,Pixel 2,Google,Android 8.0,2700,Li-Ion,4,143,64.0,True,610.0
+72,Pixel 2 XL,Google,Android 8.0,3520,Li-Ion,4,175,64.0,True,520.0
+73,Redmi Y1 (Note 5A),Xiaomi,Android 7.1.2,3080,Li-Ion,4,153,32.0,False,140.0
+74,F5 Youth,Oppo,Android 7.1,3200,Li-Ion,4,152,32.0,False,400.0
+75,R11s Plus,Oppo,Android 7.1.1,4000,Li-Po,6,182,64.0,True,310.0
+76,Redmi Y1 Lite,Xiaomi,Android 7.0,3080,Li-Ion,2,150,16.0,False,90.0
+77,moto tab,Lenovo,Android 7.0,7000,Li-Ion,2,500,32.0,False,170.0
+78,Redmi 5A,Xiaomi,Android 7.1.2,3000,Li-Ion,3,137,16.0,False,100.0
+79,nova 2s,Huawei,Android 8.0,3340,Li-Po,6,169,64.0,True,230.0
+80,Redmi 5,Xiaomi,Android 7.1.2,3300,Li-Po,4,157,16.0,False,160.0
+81,K320t,Lenovo,Android 7.0,3000,Li-Ion,3,153,16.0,False,200.0
+82,P smart,Huawei,Android 8.0,3000,Li-Po,4,143,32.0,False,450.0
+83,Galaxy A8 (2018),Samsung,Android 7.1.1,3000,Li-Ion,4,172,32.0,False,230.0
+84,Galaxy A8+ (2018),Samsung,Android 7.1.1,3500,Li-Ion,6,191,32.0,False,120.0
+85,9 Lite,Honor,Android 8.0,3000,Li-Po,4,149,32.0,False,190.0
+86,Xperia XA2 Ultra,Sony,Android 8.0,3580,Li-Ion,4,221,32.0,True,260.0
+87,A83,Oppo,Android 7.1,3180,Li-Ion,4,143,16.0,False,500.0
+88,Xperia XA2,Sony,Android 8.0,3300,Li-Ion,3,171,32.0,True,200.0
+89,Aristo 2,LG,Android 7.1.2,2410,Li-Ion,2,139,16.0,False,200.0
+90,X4+,LG,Android 7.0,3000,Li-Ion,2,172,32.0,False,500.0
+91,Galaxy J2 Pro (2018),Samsung,Android 7.1,2600,Li-Ion,2,153,16.0,False,250.0
+92,Xperia L2,Sony,Android 7.1.1,3300,Li-Ion,3,178,32.0,False,140.0
+93,Xperia XZ2 Compact,Sony,Android 8.0,2870,Li-Ion,4,168,64.0,True,430.0
+94,V30S ThinQ,LG,Android 8.0,3300,Li-Po,6,158,128.0,True,100.0
+95,K10 (2018),LG,Android 7.1.2,3000,Li-Ion,3,162,16.0,False,140.0
+96,Redmi 5 Plus (Redmi Note 5),Xiaomi,Android 7.1.2,4000,Li-Po,4,180,32.0,True,180.0
+97,A71 (2018),Oppo,Android 7.1,3000,Li-Ion,3,137,16.0,False,280.0
+98,K8 (2018),LG,Android 7.1.2,2500,Li-Ion,2,152,16.0,True,70.0
+99,Redmi Note 5 Pro,Xiaomi,Android 7.1.2,4000,Li-Po,6,181,64.0,False,180.0
+100,Galaxy S9,Samsung,Android 8.0,3000,Li-Ion,4,163,64.0,True,300.0
+101,Galaxy S9+,Samsung,Android 8.0,3500,Li-Ion,6,189,64.0,True,120.0
+102,Xperia XZ2,Sony,Android 8.0,3180,Li-Ion,6,198,64.0,True,360.0
+103,Mi Mix 2S,Xiaomi,Android 8.0,3400,Li-Ion,8,191,64.0,True,270.0
+104,Redmi Note 5 AI Dual Camera,Xiaomi,Android 8.0,4000,Li-Po,6,181,32.0,False,180.0
+105,A1 (2018),Oppo,Android 7.1.1,3180,Li-Ion,4,143,32.0,False,180.0
+106,R15,Oppo,Android 8.1,3450,Li-Po,8,175,128.0,True,450.0
+107,R15 Pro,Oppo,Android 8.1,3430,Li-Po,6,180,128.0,True,320.0
+108,Galaxy J7 Prime 2,Samsung,Android 7.0,3300,Li-Ion,3,170,32.0,False,370.0
+109,Y9 (2018),Huawei,Android 8.0,4000,Li-Ion,4,170,32.0,False,600.0
+110,K5 play,Lenovo,Android 8.0,3000,Li-Ion,3,155,16.0,False,150.0
+111,K5,Lenovo,Android 7.1,3000,Li-Ion,3,160,32.0,True,150.0
+112,Y7 (2018),Huawei,Android 8.0,3000,Li-Ion,2,155,16.0,False,200.0
+113,S5,Lenovo,Android 8.0,3000,Li-Po,4,155,32.0,True,230.0
+114,Y7 Prime (2018),Huawei,Android 8.0,3000,Li-Ion,4,155,32.0,False,170.0
+115,Zone 4,LG,Android 7.1.2,2500,Li-Ion,2,140,16.0,False,180.0
+116,F7,Oppo,Android 8.1,3400,Li-Ion,6,158,64.0,False,580.0
+117,Y7 Pro (2018),Huawei,Android 8.0,3000,Li-Ion,3,155,32.0,False,220.0
+118,Mate RS Porsche Design,Huawei,Android 8.1,4000,Li-Po,6,183,256.0,True,240.0
+119,P20 lite,Huawei,Android 8.0,3000,Li-Po,4,145,32.0,False,150.0
+120,P20 Pro,Huawei,Android 8.1,4000,Li-Po,8,180,64.0,True,150.0
+121,P20,Huawei,Android 8.1,3400,Li-Po,6,165,64.0,True,170.0
+122,Y6 (2018),Huawei,Android 8.0,3000,Li-Ion,3,150,16.0,False,330.0
+123,Y6 Prime (2018),Huawei,Android 8.0,3000,Li-Ion,3,150,16.0,False,410.0
+124,Xperia XZ2 Premium,Sony,Android 8.0,3540,Li-Ion,6,236,64.0,True,460.0
+125,Galaxy J7 Duo,Samsung,Android 8.0,3000,Li-Ion,4,174,32.0,False,420.0
+126,7A,Honor,Android 8.0,3000,Li-Po,3,150,16.0,False,120.0
+127,A3,Oppo,Android 8.1,3400,Li-Ion,4,159,128.0,False,280.0
+128,Black Shark,Xiaomi,Android 8.0,4000,Li-Ion,8,190,64.0,True,400.0
+129,1,Realme,Android 8.1,3410,Li-Ion,6,155,32.0,False,130.0
+130,10,Honor,Android 8.1,3400,Li-Po,8,153,64.0,True,310.0
+131,7C,Honor,Android 8.0,3000,Li-Po,4,164,32.0,False,200.0
+132,Y3 (2018),Huawei,Android 8.0 Oreo,2280,Li-Ion,1,175,8.0,True,1300.0
+133,Galaxy J8,Samsung,Android 8.0,3500,Li-Ion,4,177,32.0,False,140.0
+134,Galaxy J6,Samsung,Android 8.0,3000,Li-Ion,4,154,32.0,False,230.0
+135,Galaxy J4,Samsung,Android 8.0,3000,Li-Ion,3,175,16.0,False,220.0
+136,Galaxy A6+ (2018),Samsung,Android 8.0,3500,Li-Ion,4,186,32.0,False,240.0
+137,Galaxy A6 (2018),Samsung,Android 8.0,3000,Li-Ion,4,162,32.0,False,170.0
+138,7S,Honor,Android 8.1,3020,Li-Ion,2,142,16.0,False,110.0
+139,Y5 Prime (2018),Huawei,Android 8.1,3020,Li-Ion,2,142,16.0,False,150.0
+140,Galaxy S Light Luxury,Samsung,Android 8.0,3000,Li-Ion,4,150,64.0,True,180.0
+141,V35 ThinQ,LG,Android 8.0,3300,Li-Po,6,157,64.0,True,150.0
+142,Q7,LG,Android 8.1,3000,Li-Po,4,145,32.0,False,370.0
+143,F7 Youth,Oppo,Android 8.1,3410,Li-Ion,4,155,64.0,False,200.0
+144,Mi 8 Explorer,Xiaomi,Android 8.1,3000,Li-Po,8,177,128.0,True,400.0
+145,Mi 8,Xiaomi,Android 8.1,3400,Li-Po,8,175,64.0,True,430.0
+146,Mi 8 SE,Xiaomi,Android 8.1,3120,Li-Po,6,164,64.0,True,260.0
+147,Redmi S2 (Redmi Y2),Xiaomi,Android 8.1,3080,Li-Po,4,170,32.0,False,160.0
+148,K30,LG,Android 7.1,2880,Li-Ion,2,168,32.0,False,150.0
+149,G7 ThinQ,LG,Android 8.0,3000,Li-Po,6,162,64.0,True,300.0
+150,6,OnePlus,Android 8.1,3300,Li-Po,8,177,64.0,True,410.0
+151,Find X Lamborghini,Oppo,Android 8.1,3400,Li-Ion,8,186,512.0,True,130.0
+152,Galaxy J7 (2018),Samsung,Android 8.0,3300,Li-Ion,2,181,16.0,False,350.0
+153,Galaxy J3 (2018),Samsung,Android 8.0,2600,Li-Ion,2,152,16.0,False,400.0
+154,Galaxy A8 Star (A9 Star),Samsung,Android 8.0,3700,Li-Ion,6,191,64.0,True,310.0
+155,K5 Note (2018),Lenovo,Android 8.0,3760,Li-Ion,4,176,32.0,False,110.0
+156,Z5,Lenovo,Android 8.1,3300,Li-Ion,6,165,64.0,True,120.0
+157,A5,Lenovo,Android 8.0,4000,Li-Ion,3,160,16.0,False,130.0
+158,Q Stylo 4,LG,Android 8.1,3300,Li-Ion,2,172,32.0,False,300.0
+159,Q Stylus,LG,Android 8.1,3300,Li-Ion,4,171,32.0,False,350.0
+160,Redmi 6,Xiaomi,Android 8.1,3000,Li-Po,4,146,32.0,False,130.0
+161,Redmi 6A,Xiaomi,Android 8.1,3000,Li-Ion,3,145,16.0,False,110.0
+162,9N (9i),Honor,Android 8.0,3000,Li-Po,4,152,32.0,False,220.0
+163,Note 10,Honor,Android 8.1,5000,Li-Po,8,230,64.0,True,400.0
+164,P Smart+ 2019,Huawei,Android 9.0,3400,Li-Ion,6,160,64.0,False,100.0
+165,nova 3,Huawei,Android 8.1,3750,Li-Po,6,166,64.0,True,140.0
+166,Play,Honor,Android 8.1,3750,Li-Po,6,176,64.0,True,250.0
+167,K11 Plus,LG,Android 7.1.2,3000,Li-Ion,3,162,16.0,False,250.0
+168,X power 3,LG,Android 8.1,4500,Li-Po,2,171,16.0,False,160.0
+169,Xperia XA2 Plus,Sony,Android 8.0,3580,Li-Ion,6,205,32.0,True,240.0
+170,Mi Max 3,Xiaomi,Android 8.1,5500,Li-Ion,6,221,64.0,True,310.0
+171,Mi A2 Lite (Redmi 6 Pro),Xiaomi,Android 8.1,4000,Li-Po,4,178,32.0,False,380.0
+172,Galaxy On6,Samsung,Android 8.0,3000,Li-Ion,4,154,32.0,False,150.0
+173,A5 (AX5),Oppo,Android 8.1,4230,Li-Ion,4,168,32.0,False,150.0
+174,A3s,Oppo,Android 8.1,4230,Li-Ion,4,168,16.0,False,460.0
+175,nova 3i,Huawei,Android 8.1,3340,Li-Ion,6,169,64.0,False,90.0
+176,Mi A2 (Mi 6X),Xiaomi,Android 8.1,3000,Li-Po,6,166,32.0,True,270.0
+177,R17,Oppo,Android 8.1,3500,Li-Po,8,182,128.0,True,270.0
+178,G7 One,LG,Android 8.1,3000,Li-Po,4,156,32.0,True,300.0
+179,Q8 (2018),LG,Android 8.1,3300,Li-Po,4,172,64.0,False,140.0
+180,F9 (F9 Pro),Oppo,Android 8.1,3500,Li-Po,6,169,64.0,False,510.0
+181,Galaxy J2 Core,Samsung,Android 8.1 Oreo,2600,Li-Ion,1,154,8.0,False,200.0
+182,2,Realme,Android 8.1,4230,Li-Ion,4,168,32.0,False,120.0
+183,G7 Fit,LG,Android 8.1,3000,Li-Ion,4,156,32.0,True,350.0
+184,Mate 20 lite,Huawei,Android 8.1,3750,Li-Ion,6,172,64.0,False,350.0
+185,RX17 Pro,Oppo,Android 8.1,3700,Li-Po,8,183,128.0,True,330.0
+186,Candy,LG,Android 7.1.2,2500,Li-Ion,2,152,16.0,False,200.0
+187,Galaxy Note9,Samsung,Android 8.1,4000,Li-Ion,8,201,128.0,True,150.0
+188,Pocophone F1,Xiaomi,Android 8.1,4000,Li-Po,8,182,64.0,True,360.0
+189,Xperia XZ3,Sony,Android 9.0,3300,Li-Ion,6,193,64.0,True,510.0
+190,Mi 8 Lite,Xiaomi,Android 8.1,3350,Li-Po,6,169,64.0,True,360.0
+191,Mi 8 Pro,Xiaomi,Android 8.1,3000,Li-Po,8,177,128.0,True,510.0
+192,Redmi Note 6 Pro,Xiaomi,Android 8.1,4000,Li-Po,6,182,32.0,False,200.0
+193,A7x,Oppo,Android 8.1,3500,Li-Po,4,169,64.0,False,250.0
+194,Galaxy J4+,Samsung,Android 8.1,3300,Li-Ion,3,178,16.0,False,100.0
+195,8X,Honor,Android 8.1,3750,Li-Po,6,175,64.0,False,220.0
+196,8X Max,Honor,Android 8.1,5000,Li-Po,6,210,64.0,False,250.0
+197,C1,Realme,Android 8.1,4230,Li-Ion,2,168,16.0,False,100.0
+198,Galaxy J6+,Samsung,Android 8.1,3300,Li-Ion,4,178,32.0,False,220.0
+199,2 Pro,Realme,Android 8.1,3500,Li-Ion,8,174,64.0,True,150.0
+200,iPhone XS Max,Apple,iOS 12,3174,Li-Ion,4,208,64.0,True,570.0
+201,iPhone XS,Apple,iOS 12,2658,Li-Ion,4,177,64.0,True,380.0
+202,iPhone XR,Apple,iOS 12,2942,Li-Ion,3,194,64.0,True,310.0
+203,Galaxy A7 (2018),Samsung,Android 8.0,3300,Li-Po,6,168,64.0,True,200.0
+204,Black Shark Helo,Xiaomi,Android 8.0,4000,Li-Ion,6,190,128.0,True,450.0
+205,Mi Mix 3,Xiaomi,Android 9.0,3200,Li-Po,6,218,128.0,True,730.0
+206,K9,Lenovo,Android 8.1,3000,Li-Ion,3,155,32.0,False,150.0
+207,K5 Pro,Lenovo,Android 8.1,4050,Li-Ion,6,165,64.0,True,200.0
+208,S5 Pro,Lenovo,Android 8.1,3500,Li-Ion,6,170,64.0,True,130.0
+209,Mate 20 RS Porsche Design,Huawei,Android 9.0,4200,Li-Po,8,187,256.0,True,460.0
+210,Mate 20 X,Huawei,Android 9.0,5000,Li-Po,8,232,128.0,True,180.0
+211,Galaxy A6s,Samsung,Android 8.0,3300,Li-Ion,6,183,64.0,True,310.0
+212,Mate 20,Huawei,Android 9.0,4000,Li-Po,6,188,64.0,True,260.0
+213,Galaxy A9 (2018),Samsung,Android 8.0,3800,Li-Ion,8,183,64.0,True,430.0
+214,K1,Oppo,Android 8.1,3600,Li-Ion,6,156,64.0,True,1350.0
+215,Y9 (2019),Huawei,Android 8.1,4000,Li-Ion,6,173,64.0,False,220.0
+216,R15x,Oppo,Android 8.1,3600,Li-Ion,6,156,128.0,True,132.0
+217,8C,Honor,Android 8.1,4000,Li-Po,4,167,32.0,False,170.0
+218,Magic 2,Honor,Android 9.0,3500,Li-Po,8,206,128.0,True,550.0
+219,V40 ThinQ,LG,Android 8.1,3300,Li-Po,6,169,64.0,True,70.0
+220,Pixel 3 XL,Google,Android 9.0,3430,Li-Po,4,184,64.0,True,260.0
+221,Pixel 3,Google,Android 9.0,2915,Li-Po,4,148,64.0,True,450.0
+222,Mate 20 Pro,Huawei,Android 9.0,4200,Li-Po,8,189,128.0,True,230.0
+223,6T,OnePlus,Android 9.0,3700,Li-Po,8,185,128.0,True,430.0
+224,U1,Realme,Android 8.1,3500,Li-Ion,4,168,32.0,True,130.0
+225,Y Max,Huawei,Android 8.1,5000,Li-Po,4,210,128.0,False,180.0
+226,Z5 Pro,Lenovo,Android 8.1,3350,Li-Po,6,210,64.0,True,150.0
+227,RX17 Neo,Oppo,Android 8.1,3600,Li-Ion,4,156,128.0,False,230.0
+228,A7,Oppo,Android 8.1,4230,Li-Ion,4,168,32.0,False,290.0
+229,Galaxy J4 Core,Samsung,Android 8.1 Oreo,3300,Li-Ion,1,177,16.0,False,120.0
+230,10 Lite,Honor,Android 9.0,3400,Li-Po,6,162,32.0,False,180.0
+231,Enjoy 9,Huawei,Android 8.1,4000,Li-Po,4,168,32.0,False,800.0
+232,Galaxy A8s,Samsung,Android 9.0,3400,Li-Ion,8,173,128.0,True,550.0
+233,nova 4,Huawei,Android 9.0,3750,Li-Po,8,172,128.0,True,1200.0
+234,S5 Pro GT,Lenovo,Android 8.1,3500,Li-Ion,6,170,64.0,True,400.0
+235,Y5 lite (2018),Huawei,Android 8.1 Oreo,3020,Li-Ion,1,142,16.0,False,130.0
+236,Mi Play,Xiaomi,Android 9.0,3000,Li-Ion,6,150,64.0,False,170.0
+237,Z5 Pro GT,Lenovo,Android 8.1,3350,Li-Po,6,210,128.0,True,200.0
+238,6T McLaren,OnePlus,Android 9.0,3700,Li-Po,10,185,256.0,True,700.0
+239,Z5s,Lenovo,Android 9.0,3300,Li-Ion,6,172,64.0,True,300.0
+240,P smart 2019,Huawei,Android 9.0,3400,Li-Ion,3,160,32.0,False,580.0
+241,Y7 Pro (2019),Huawei,Android 8.1,4000,Li-Ion,4,168,32.0,False,200.0
+242,Y7 Prime (2019),Huawei,Android 8.1,4000,Li-Ion,3,168,32.0,False,400.0
+243,Redmi Go,Xiaomi,Android 8.1 Oreo,3000,Li-Ion,1,137,8.0,False,100.0
+244,Tribute Empire,LG,Android 8.1,2500,Li-Ion,2,140,16.0,False,80.0
+245,Play 8A,Honor,Android 9.0,3020,Li-Po,3,150,32.0,False,100.0
+246,Q9,LG,Android 8.1,3000,Li-Ion,4,159,64.0,True,330.0
+247,Galaxy M10,Samsung,Android 8.1,3400,Li-Ion,3,163,16.0,False,90.0
+248,C1 (2019),Realme,Android 8.1,4230,Li-Ion,3,168,32.0,False,90.0
+249,Redmi Note 7,Xiaomi,Android 9.0,4000,Li-Po,6,186,32.0,False,170.0
+250,Galaxy M20,Samsung,Android 8.1,5000,Li-Po,4,186,32.0,False,380.0
+251,Q60,LG,Android 9.0,3500,Li-Ion,3,172,64.0,False,180.0
+252,K50,LG,Android 9.0,3500,Li-Po,3,170,32.0,False,140.0
+253,K40,LG,Android 8.1,3000,Li-Ion,3,144,32.0,False,400.0
+254,Y6 Pro (2019),Huawei,Android 9.0,3020,Li-Ion,3,150,32.0,False,200.0
+255,Galaxy Fold,Samsung,Android 9.0,4380,Li-Po,12,276,512.0,True,260.0
+256,Xperia L3,Sony,Android 8.0,3300,Li-Ion,3,156,32.0,False,230.0
+257,Galaxy Fold 5G,Samsung,Android 9.0,4235,Li-Po,12,276,512.0,True,400.0
+258,Galaxy S10 5G,Samsung,Android 9.0,4500,Li-Ion,8,198,256.0,True,300.0
+259,Mate X,Huawei,Android 9.0,4500,Li-Po,8,295,512.0,True,200.0
+260,Mi 9 Explorer,Xiaomi,Android 9.0,3300,Li-Po,8,173,256.0,True,530.0
+261,Mi Mix 3 5G,Xiaomi,Android 9.0,3800,Li-Po,6,225,64.0,True,410.0
+262,Galaxy S10,Samsung,Android 9.0,3400,Li-Ion,8,157,128.0,True,200.0
+263,Mi 9,Xiaomi,Android 9.0,3300,Li-Po,8,173,64.0,True,590.0
+264,Mi 9 SE,Xiaomi,Android 9.0,3070,Li-Po,6,155,64.0,True,460.0
+265,Galaxy S10e,Samsung,Android 9.0,3100,Li-Ion,8,150,128.0,True,260.0
+266,Galaxy S10+,Samsung,Android 9.0,4100,Li-Ion,8,175,128.0,True,360.0
+267,V50 ThinQ 5G,LG,Android 9.0,4000,Li-Po,6,183,128.0,True,480.0
+268,G8S ThinQ,LG,Android 9.0,3550,Li-Po,6,181,64.0,True,350.0
+269,G8 ThinQ,LG,Android 9.0,3500,Li-Po,6,167,128.0,True,230.0
+270,Xperia 1,Sony,Android 9.0,3330,Li-Ion,6,178,64.0,True,500.0
+271,Galaxy A50,Samsung,Android 9.0,4000,Li-Po,6,166,64.0,False,110.0
+272,Xperia 10 Plus,Sony,Android 9.0,3000,Li-Ion,6,180,64.0,True,560.0
+273,Xperia 10,Sony,Android 9.0,2870,Li-Ion,4,162,64.0,True,280.0
+274,Galaxy A30,Samsung,Android 9.0,4000,Li-Po,4,165,32.0,False,100.0
+275,Galaxy M30,Samsung,Android 8.1,5000,Li-Po,6,174,32.0,False,240.0
+276,Redmi Note 7 Pro,Xiaomi,Android 9.0,4000,Li-Po,6,186,64.0,True,260.0
+277,Galaxy A10,Samsung,Android 9.0,3400,Li-Ion,4,168,32.0,False,300.0
+278,Black Shark 2,Xiaomi,Android 9.0,4000,Li-Ion,6,205,128.0,True,400.0
+279,F11,Oppo,Android 9.0,4020,Li-Po,6,188,64.0,False,600.0
+280,3,Realme,Android 9.0,4230,Li-Po,4,175,32.0,False,108.0
+281,Magic 2 3D,Honor,Android 9.0,3500,Li-Po,8,206,128.0,True,600.0
+282,Enjoy 9s,Huawei,Android 9.0,3400,Li-Po,6,160,64.0,False,130.0
+283,F11 Pro,Oppo,Android 9.0,4000,Li-Po,6,190,64.0,False,460.0
+284,Enjoy 9e,Huawei,Android 9.0,3020,Li-Po,3,150,32.0,False,120.0
+285,nova 4e,Huawei,Android 9.0,3340,Li-Po,6,159,128.0,False,200.0
+286,Y6 (2019),Huawei,Android 9.0,3020,Li-Ion,2,150,32.0,False,200.0
+287,Y7 (2019),Huawei,Android 8.1,4000,Li-Ion,4,168,32.0,False,100.0
+288,Redmi 7,Xiaomi,Android 9.0 Pie,4000,Li-Po,4,180,16.0,False,150.0
+289,A5s (AX5s),Oppo,Android 8.1,4230,Li-Ion,4,170,32.0,False,270.0
+290,Galaxy A20,Samsung,Android 9.0,4000,Li-Po,3,169,32.0,False,400.0
+291,Galaxy A40,Samsung,Android 9.0,3100,Li-Po,4,140,64.0,False,200.0
+292,P30,Huawei,Android 9.0,3650,Li-Po,8,165,64.0,True,130.0
+293,P30 Pro,Huawei,Android 9.0,4200,Li-Po,8,192,128.0,True,270.0
+294,Galaxy A70,Samsung,Android 9.0,4500,Li-Po,8,183,128.0,True,270.0
+295,P30 lite,Huawei,Android 9.0,3340,Li-Po,8,159,64.0,False,120.0
+296,Redmi Y3,Xiaomi,Android 9.0,4000,Li-Po,4,180,32.0,False,120.0
+297,A1k,Oppo,Android 9.0,4000,Li-Po,3,170,32.0,False,330.0
+298,A7n,Oppo,Android 8.1,4230,Li-Ion,4,170,64.0,False,210.0
+299,8S,Honor,Android 9.0,3020,Li-Po,3,146,32.0,False,120.0
+300,A9,Oppo,Android 9.0,4020,Li-Po,8,190,128.0,False,250.0
+301,K6 Enjoy,Lenovo,Android 9.0,3300,Li-Ion,4,161,64.0,False,220.0
+302,Galaxy A60,Samsung,Android 9.0,3500,Li-Po,6,168,64.0,True,260.0
+303,Galaxy A2 Core,Samsung,Android 8.0 Oreo,2600,Li-Ion,1,142,8.0,False,290.0
+304,Reno 5G,Oppo,Android 9.0,4065,Li-Po,8,215,256.0,True,320.0
+305,8A Pro,Honor,Android 9.0,3020,Li-Po,3,150,32.0,False,200.0
+306,20i,Honor,Android 9.0,3400,Li-Po,6,164,64.0,False,210.0
+307,20 lite,Honor,Android 9.0,3400,Li-Po,8,164,64.0,False,190.0
+308,Reno,Oppo,Android 9.0,3765,Li-Po,8,185,128.0,True,350.0
+309,Reno 10x zoom,Oppo,Android 9.0,4065,Li-Po,6,210,128.0,True,270.0
+310,Galaxy A20e,Samsung,Android 9.0,3000,Li-Po,3,141,32.0,False,160.0
+311,Galaxy A80,Samsung,Android 9.0,3700,Li-Po,8,220,128.0,True,290.0
+312,A7,Lenovo,Android 9.0,4000,Li-Po,4,187,64.0,False,200.0
+313,C2,Realme,Android 9.0,4000,Li-Po,3,166,16.0,False,72.0
+314,3 Pro,Realme,Android 9.0,4045,Li-Po,6,172,64.0,True,270.0
+315,Z6 Pro,Lenovo,Android 9.0,4000,Li-Po,6,185,128.0,True,200.0
+316,Y5 (2019),Huawei,Android 9.0,3020,Li-Ion,2,146,16.0,False,280.0
+317,20,Honor,Android 9.0,3750,Li-Po,8,174,128.0,True,400.0
+318,X,Realme,Android 9.0,3765,Li-Po,8,191,64.0,True,160.0
+319,P Smart Z,Huawei,Android 9.0,4000,Li-Po,4,196,64.0,False,319.0
+320,Mate 20 X (5G),Huawei,Android 9.0,4200,Li-Po,8,233,128.0,True,420.0
+321,Reno Z,Oppo,Android 9.0,4035,Li-Po,8,186,128.0,True,470.0
+322,Redmi K20,Xiaomi,Android 9.0,4000,Li-Po,8,191,64.0,True,260.0
+323,Z6 Youth,Lenovo,Android 9.0,4050,Li-Po,6,164,64.0,False,190.0
+324,K3,Oppo,Android 9.0,3765,Li-Po,8,191,64.0,True,100.0
+325,20 Pro,Honor,Android 9.0,4000,Li-Po,8,182,128.0,True,470.0
+326,Redmi Note 7S,Xiaomi,Android 9.0,4000,Li-Po,4,186,32.0,False,140.0
+327,A9x,Oppo,Android 9.0,4020,Li-Po,6,190,128.0,False,200.0
+328,Pixel 3a,Google,Android 9.0,3000,Li-Po,4,147,64.0,True,290.0
+329,Pixel 3a XL,Google,Android 9.0,3700,Li-Po,4,167,64.0,True,290.0
+330,7,OnePlus,Android 9.0,3700,Li-Po,6,182,128.0,True,400.0
+331,7 Pro,OnePlus,Android 9.0,4000,Li-Po,6,206,128.0,True,590.0
+332,7 Pro 5G,OnePlus,Android 9.0,4000,Li-Po,6,206,128.0,True,800.0
+333,Redmi 7A,Xiaomi,Android 9.0,4000,Li-Po,3,165,16.0,False,130.0
+334,Redmi K20 Pro,Xiaomi,Android 9.0,4000,Li-Po,8,191,64.0,True,400.0
+335,Galaxy M40,Samsung,Android 9.0,3500,Li-Po,6,168,64.0,True,400.0
+336,nova 5 Pro,Huawei,Android 9.0,3500,Li-Po,8,171,128.0,True,220.0
+337,P20 lite (2019),Huawei,Android 9.0,4000,Li-Po,4,178,64.0,False,670.0
+338,Galaxy Xcover 4s,Samsung,Android 9.0,2800,Li-Ion,3,172,32.0,False,380.0
+339,nova 5,Huawei,Android 9.0,3500,Li-Po,8,171,128.0,False,280.0
+340,Stylo 5,LG,Android 9.0,3500,Li-Ion,3,179,32.0,False,550.0
+341,nova 5i,Huawei,Android 9.0,4000,Li-Po,8,178,128.0,False,280.0
+342,W30,LG,Android 9.0,4000,Li-Po,4,175,32.0,False,110.0
+343,W30 Pro,LG,Android 9.0,4050,Li-Po,4,172,64.0,True,130.0
+344,W10,LG,Android 9.0,4000,Li-Po,3,164,32.0,False,200.0
+345,Mi 9T,Xiaomi,Android 9.0,4000,Li-Po,6,191,64.0,True,460.0
+346,Z6 Pro 5G,Lenovo,Android 9.0,4000,Li-Po,6,185,128.0,True,430.0
+347,Galaxy A10e,Samsung,Android 9.0,3000,Li-Ion,3,141,32.0,False,120.0
+348,nova 5i Pro,Huawei,Android 9.0,4000,Li-Po,8,178,128.0,True,390.0
+349,Mi CC9,Xiaomi,Android 9.0,4030,Li-Po,8,179,64.0,True,260.0
+350,Mi CC9e,Xiaomi,Android 9.0,4030,Li-Po,6,173,64.0,True,170.0
+351,Black Shark 2 Pro,Xiaomi,Android 9.0,4000,Li-Ion,8,205,128.0,True,550.0
+352,3i,Realme,Android 9.0,4230,Li-Po,4,175,32.0,False,96.0
+353,9X (China),Honor,Android 9.0,4000,Li-Po,8,206,64.0,False,180.0
+354,Z6,Lenovo,Android 9.0,4000,Li-Po,8,159,64.0,True,160.0
+355,Mi A3,Xiaomi,Android 9.0,4030,Li-Po,6,173,64.0,True,230.0
+356,9X Pro,Honor,Android 9.0,4000,Li-Po,8,202,128.0,False,230.0
+357,Y9 Prime (2019),Huawei,Android 9.0,4000,Li-Po,4,196,64.0,False,760.0
+358,Galaxy Note10 5G,Samsung,Android 9.0,3500,Li-Ion,12,168,256.0,True,180.0
+359,Galaxy Note10+ 5G,Samsung,Android 9.0,4300,Li-Ion,12,198,256.0,True,1100.0
+360,K40S,LG,Android 9.0,3500,Li-Po,3,186,32.0,False,200.0
+361,K50S,LG,Android 9.0,4000,Li-Po,3,194,32.0,False,190.0
+362,K20 (2019),LG,Android 9.0 Pie,3000,Li-Ion,1,152,16.0,False,160.0
+363,K30 (2019),LG,Android 9.0,3000,Li-Ion,2,148,16.0,False,100.0
+364,Galaxy Note10+,Samsung,Android 9.0,4300,Li-Ion,12,196,256.0,True,590.0
+365,Galaxy Note10,Samsung,Android 9.0,3500,Li-Ion,8,168,256.0,True,80.0
+366,Galaxy A10s,Samsung,Android 9.0,4000,Li-Po,3,168,32.0,False,260.0
+367,5 Pro,Realme,Android 9.0,4035,Li-Po,8,184,64.0,True,430.0
+368,5,Realme,Android 9.0,5000,Li-Po,4,198,32.0,True,190.0
+369,Mi 9T Pro,Xiaomi,Android 9.0,4000,Li-Po,8,191,64.0,True,325.38
+370,Galaxy A30s,Samsung,Android 9.0,4000,Li-Po,4,169,32.0,False,700.0
+371,Galaxy A50s,Samsung,Android 9.0,4000,Li-Po,6,169,64.0,True,590.0
+372,nova 5T,Huawei,Android 9.0,3750,Li-Po,8,174,128.0,True,260.0
+373,Reno2,Oppo,Android 9.0,4000,Li-Po,8,189,128.0,True,270.0
+374,Reno2 F,Oppo,Android 9.0,4000,Li-Po,8,195,128.0,False,880.0
+375,Reno2 Z,Oppo,Android 9.0,4000,Li-Po,8,195,128.0,True,1020.0
+376,Redmi Note 8 Pro,Xiaomi,Android 9.0,4500,Li-Po,8,200,64.0,True,220.0
+377,Redmi Note 8,Xiaomi,Android 9.0,4000,Li-Po,6,190,32.0,True,220.0
+378,Galaxy M10s,Samsung,Android 9.0,4000,Li-Ion,3,169,32.0,False,1750.0
+379,Galaxy A90 5G,Samsung,Android 9.0,4500,Li-Po,8,206,128.0,True,290.0
+380,Galaxy A70s,Samsung,Android 9.0,4500,Li-Po,8,187,128.0,True,260.0
+381,Q,Realme,Android 9.0,4035,Li-Po,8,184,64.0,True,130.0
+382,Redmi K20 Pro Premium,Xiaomi,Android 10,4000,Li-Po,8,191,128.0,True,450.0
+383,20S,Honor,Android 9.0,3750,Li-Po,8,172,128.0,False,250.0
+384,Mi 9 Pro 5G,Xiaomi,Android 10,4000,Li-Po,8,196,128.0,True,600.0
+385,Mate 30 RS Porsche Design,Huawei,Android 10,4500,Li-Po,12,198,512.0,True,650.0
+386,Reno A,Oppo,Android 9.0,3600,Li-Po,6,169,128.0,True,330.0
+387,Mate 30 5G,Huawei,Android 10,4200,Li-Po,8,196,128.0,True,190.0
+388,A6 Note,Lenovo,Android 9.0,4000,Li-Po,3,172,16.0,False,400.0
+389,Mate 30,Huawei,Android 10,4200,Li-Po,8,196,128.0,True,340.0
+390,Play 3,Honor,Android 9.0,4000,Li-Po,6,176,64.0,False,130.0
+391,Play 3e,Honor,Android 9.0,3020,Li-Po,3,146,32.0,False,90.0
+392,Enjoy 10 Plus,Huawei,Android 9.0,4000,Li-Po,8,163,128.0,False,360.0
+393,Mi 9 Pro,Xiaomi,Android 10,4000,Li-Po,8,196,128.0,True,500.0
+394,K10 Note,Lenovo,Android 9.0,4050,Li-Po,6,164,64.0,True,250.0
+395,Xperia 5,Sony,Android 9.0,3140,Li-Ion,6,164,128.0,True,500.0
+396,G8X ThinQ,LG,Android 9.0,4000,Li-Po,6,192,128.0,True,320.0
+397,iPhone 11 Pro Max,Apple,iOS 13,3969,Li-Ion,4,226,64.0,True,397.78
+398,iPhone 11 Pro,Apple,iOS 13,3046,Li-Ion,4,188,64.0,True,429.89
+399,iPhone 11,Apple,iOS 13,3110,Li-Ion,4,194,64.0,True,494.0
+400,A9 (2020),Oppo,Android 9.0,5000,Li-Po,8,195,128.0,True,260.0
+401,XT,Realme,Android 9.0,4000,Li-Po,8,183,64.0,True,290.0
+402,Mi 9 Lite,Xiaomi,Android 9.0,4030,Li-Po,6,179,64.0,True,320.0
+403,Galaxy M30s,Samsung,Android 9.0,6000,Li-Po,6,188,64.0,True,1400.0
+404,Mate 30 Pro 5G,Huawei,Android 10,4500,Li-Po,8,198,128.0,True,550.0
+405,Mate 30 Pro,Huawei,Android 10,4500,Li-Po,8,198,128.0,True,290.0
+406,A5 (2020),Oppo,Android 9.0,5000,Li-Po,4,195,32.0,True,210.0
+407,K10 Plus,Lenovo,Android 9.0,4050,Li-Po,4,172,64.0,False,100.0
+408,X2,Realme,Android 9.0,4000,Li-Po,8,182,64.0,True,480.0
+409,Galaxy A20s,Samsung,Android 9.0,4000,Li-Po,4,183,32.0,False,110.0
+410,Redmi 8A,Xiaomi,Android 9.0,5000,Li-Po,4,188,32.0,False,120.0
+411,7T,OnePlus,Android 10,3800,Li-Po,8,190,128.0,True,258.5
+412,Q70,LG,Android 9.0,4000,Li-Po,4,198,64.0,True,140.0
+413,A11,Oppo,Android 9.0,5000,Li-Po,6,195,64.0,True,500.0
+414,K5,Oppo,Android 9.0,4000,Li-Po,8,182,128.0,True,340.0
+415,V50S ThinQ 5G,LG,Android 9.0,4000,Li-Po,8,192,256.0,True,560.0
+416,20 lite (China),Honor,Android 9.0,4000,Li-Po,8,171,64.0,False,220.0
+417,Enjoy 10,Huawei,Android 9.0,4000,Li-Po,6,176,64.0,False,1290.0
+418,Reno Ace,Oppo,Android 9.0,4000,Li-Po,8,200,128.0,True,330.0
+419,Galaxy Xcover FieldPro,Samsung,Android 8.0,4500,Li-Po,4,256,64.0,False,250.0
+420,nova 5z,Huawei,Android 9.0,4000,Li-Po,6,178,64.0,True,1700.0
+421,Redmi 8,Xiaomi,Android 9.0,5000,Li-Po,4,188,32.0,False,210.0
+422,7T Pro,OnePlus,Android 10,4085,Li-Po,8,206,256.0,True,1030.0
+423,Pixel 4 XL,Google,Android 10,3700,Li-Po,6,193,64.0,True,250.0
+424,Pixel 4,Google,Android 10,2800,Li-Po,6,162,64.0,True,300.0
+425,X2 Pro,Realme,Android 9.0,4000,Li-Po,6,199,64.0,True,440.0
+426,7T Pro 5G McLaren,OnePlus,Android 10,4085,Li-Po,12,206,256.0,True,800.0
+427,Enjoy 10s,Huawei,Android 9.0,4000,Li-Po,8,163,64.0,False,1440.0
+428,9X,Honor,Android 9.0,4000,Li-Po,6,196,64.0,False,240.0
+429,Mi CC9 Pro,Xiaomi,Android 9.0,5260,Li-Po,8,208,128.0,True,400.0
+430,V30 Pro,Honor,Android 10,4100,Li-Po,8,206,128.0,True,500.0
+431,C2 2020,Realme,Android 9.0,4000,Li-Po,3,166,32.0,False,100.0
+432,V30,Honor,Android 10,4200,Li-Po,8,213,128.0,True,430.0
+433,Redmi Note 8T,Xiaomi,Android 9.0,4000,Li-Po,4,200,32.0,True,250.0
+434,Mi Note 10 Pro,Xiaomi,Android 9.0,5260,Li-Po,8,208,256.0,True,480.0
+435,Mi Note 10,Xiaomi,Android 9.0,5260,Li-Po,6,208,128.0,True,380.0
+436,Y9s,Huawei,Android 9.0,4000,Li-Po,6,206,128.0,False,150.0
+437,5s,Realme,Android 9.0,5000,Li-Po,4,198,64.0,True,270.0
+438,nova 6 SE,Huawei,Android 10,4200,Li-Po,8,183,128.0,False,200.0
+439,nova 6,Huawei,Android 10,4100,Li-Po,8,197,128.0,True,220.0
+440,A8,Oppo,Android 9.0,4230,Li-Po,4,180,128.0,False,150.0
+441,nova 6 5G,Huawei,Android 10,4200,Li-Po,8,212,128.0,True,2150.0
+442,Reno3 5G,Oppo,Android 10,4025,Li-Po,8,181,128.0,True,280.0
+443,Reno3 Pro 5G,Oppo,Android 10,4025,Li-Po,8,171,128.0,True,240.0
+444,P smart Pro 2019,Huawei,Android 9.0,4000,Li-Po,6,206,128.0,False,280.0
+445,Redmi K30 5G,Xiaomi,Android 10,4500,Li-Po,8,208,64.0,True,260.0
+446,Redmi K30,Xiaomi,Android 10,4500,Li-Po,8,208,64.0,True,210.0
+447,Galaxy A51,Samsung,Android 10,4000,Li-Po,8,172,64.0,True,380.0
+448,Galaxy A71,Samsung,Android 10,4500,Li-Ion,8,179,128.0,True,1020.0
+449,Galaxy A01,Samsung,Android 10,3000,Li-Ion,2,149,16.0,False,240.0
+450,A91,Oppo,Android 9.0,4025,Li-Po,8,172,128.0,False,170.0
+451,C2s,Realme,Android 9.0,4000,Li-Po,3,166,32.0,False,40.0
+452,Galaxy Xcover Pro,Samsung,Android 10,4050,Li-Po,4,218,64.0,False,380.0
+453,Galaxy Note10 Lite,Samsung,Android 10,4500,Li-Po,8,199,128.0,True,200.0
+454,Galaxy S10 Lite,Samsung,Android 10,4500,Li-Po,8,186,128.0,True,336.5
+455,5i,Realme,Android 9.0,5000,Li-Po,4,195,32.0,True,170.0
+456,X50 5G (China),Realme,Android 10,4200,Li-Po,6,202,64.0,True,680.0
+457,P30 lite New Edition,Huawei,Android 9.0,3340,Li-Po,6,152,128.0,False,140.0
+458,F15,Oppo,Android 9.0,4025,Li-Po,8,172,128.0,False,200.0
+459,nova 7i,Huawei,Android 10,4200,Li-Po,8,183,128.0,False,160.0
+460,Y6s (2019),Huawei,Android 9.0,3020,Li-Po,3,150,32.0,False,290.0
+461,Poco X2,Xiaomi,Android 10,4500,Li-Po,8,208,64.0,True,179.88
+462,C3,Realme,Android 10,5000,Li-Po,4,195,32.0,False,90.0
+463,Y7p,Huawei,Android 9.0,4000,Li-Po,4,176,64.0,False,240.0
+464,Reno3 Youth,Oppo,Android 10,4025,Li-Po,8,180,128.0,True,380.0
+465,Galaxy S20 5G,Samsung,Android 10,4000,Li-Ion,8,163,128.0,True,770.0
+466,Galaxy S20+ 5G,Samsung,Android 10,4500,Li-Ion,8,188,128.0,True,880.0
+467,Galaxy S20 Ultra,Samsung,Android 10,5000,Li-Ion,16,220,128.0,True,540.0
+468,Redmi 8A Dual,Xiaomi,Android 9.0,5000,Li-Po,3,188,32.0,False,110.0
+469,Galaxy S20 Ultra 5G,Samsung,Android 10,5000,Li-Ion,16,222,128.0,True,540.0
+470,Galaxy S20+,Samsung,Android 10,4500,Li-Ion,8,186,128.0,True,280.0
+471,Galaxy S20,Samsung,Android 10,4000,Li-Ion,8,163,128.0,True,389.99
+472,Galaxy Z Flip,Samsung,Android 10,3300,Li-Po,8,183,256.0,True,550.0
+473,A31,Oppo,Android 9.0,4230,Li-Po,6,180,64.0,False,150.0
+474,Mi 10 5G,Xiaomi,Android 10,4780,Li-Po,6,208,128.0,True,339.0
+475,Mi 10 Pro 5G,Xiaomi,Android 10,4500,Li-Po,8,208,256.0,True,930.0
+476,K51S,LG,Android 9.0,4000,Li-Po,3,194,64.0,False,220.0
+477,K61,LG,Android 9.0,4000,Li-Po,4,191,64.0,False,200.0
+478,K41S,LG,Android 9.0,4000,Li-Po,3,191,32.0,False,1100.0
+479,C3 (3 cameras),Realme,Android 10,5000,Li-Po,4,195,32.0,False,150.0
+480,W10 Alpha,LG,Android 9.0,3450,Li-Po,3,170,32.0,False,300.0
+481,Xperia L4,Sony,Android 9.0,3580,Li-Ion,3,178,64.0,False,200.0
+482,Xperia 1 II,Sony,Android 10,4000,Li-Po,8,181,256.0,True,700.0
+483,Xperia 10 II,Sony,Android 10,3600,Li-Po,4,151,64.0,True,700.0
+484,Mate Xs,Huawei,Android 10,4500,Li-Po,8,300,512.0,True,360.0
+485,X50 Pro 5G,Realme,Android 10,4200,Li-Po,6,205,128.0,True,439.44
+486,Xperia Pro,Sony,Android 10,4000,Li-Po,12,225,512.0,True,2000.0
+487,Galaxy M31,Samsung,Android 10,6000,Li-Po,8,191,64.0,True,690.0
+488,Q51,LG,Android 10,4000,Li-Po,3,187,32.0,False,130.0
+489,V60 ThinQ 5G,LG,Android 10,5000,Li-Po,8,213,128.0,True,240.0
+490,V60 ThinQ 5G UW,LG,Android 10,5000,Li-Po,8,218,128.0,True,700.0
+491,P40 lite,Huawei,Android 10,4200,Li-Po,8,183,128.0,False,1950.0
+492,Enjoy 10e,Huawei,Android 10,5000,Li-Po,4,185,64.0,False,1000.0
+493,Reno3 Pro,Oppo,Android 10,4025,Li-Po,8,175,128.0,True,200.0
+494,Black Shark 3,Xiaomi,Android 10,4720,Li-Po,8,222,128.0,True,390.0
+495,Black Shark 3 Pro,Xiaomi,Android 10,5000,Li-Po,8,253,256.0,True,940.0
+496,P40 lite E,Huawei,Android 9.0,4000,Li-Po,4,176,64.0,False,249.99
+497,6 Pro,Realme,Android 10,4300,Li-Po,8,202,64.0,True,179.99
+498,6,Realme,Android 10,4300,Li-Po,8,191,64.0,True,190.0
+499,Find X2 Pro,Oppo,Android 10,4260,Li-Po,12,217,256.0,True,400.0
+500,Find X2,Oppo,Android 10,4200,Li-Po,8,209,128.0,True,440.0
+501,Redmi Note 9 Pro Max,Xiaomi,Android 10,5020,Li-Po,8,209,64.0,True,180.0
+502,Redmi Note 9 Pro (India),Xiaomi,Android 10,5020,Li-Po,6,209,64.0,True,280.0
+503,Galaxy A11,Samsung,Android 10,4000,Li-Po,4,177,32.0,False,650.0
+504,Reno3,Oppo,Android 10,4025,Li-Po,8,170,128.0,True,430.0
+505,6i,Realme,Android 10,5000,Li-Po,4,199,64.0,False,400.0
+506,Galaxy A41,Samsung,Android 10,3500,Li-Po,8,152,64.0,False,160.0
+507,Galaxy M21,Samsung,Android 10,6000,Li-Po,6,188,64.0,True,310.0
+508,Redmi Note 9S,Xiaomi,Android 10,5020,Li-Po,6,209,64.0,True,204.95
+509,Redmi K30 Pro,Xiaomi,Android 10,4700,Li-Po,6,218,128.0,True,390.0
+510,Galaxy A31,Samsung,Android 10,5000,Li-Po,8,185,64.0,False,190.0
+511,Redmi K30 Pro Zoom,Xiaomi,Android 10,4700,Li-Po,8,218,128.0,True,500.0
+512,P40 Pro,Huawei,Android 10,4200,Li-Po,8,209,128.0,True,520.0
+513,P40 Pro+,Huawei,Android 10,4200,Li-Po,8,226,256.0,True,569.9
+514,P40,Huawei,Android 10,3800,Li-Po,8,175,128.0,True,150.0
+515,M10 Plus,Lenovo,Android 9.0,5000,Li-Po,4,460,32.0,False,180.0
+516,Mi 10 Lite 5G,Xiaomi,Android 10,4160,Li-Po,8,192,64.0,True,209.06
+517,8A Prime,Honor,Android 9.0,3020,Li-Po,3,150,64.0,False,110.0
+518,30S,Honor,Android 10,4000,Li-Po,8,190,128.0,True,310.0
+519,Play 9A,Honor,Android 10,5000,Li-Po,4,185,64.0,False,120.0
+520,Galaxy M11,Samsung,Android 10,5000,Li-Ion,4,197,32.0,False,290.0
+521,Redmi 8A Pro,Xiaomi,Android 9.0,5000,Li-Po,3,188,32.0,False,90.0
+522,A12e,Oppo,Android 8.1,4230,Li-Ion,3,168,64.0,False,227.868
+523,Galaxy A71 5G,Samsung,Android 10,4500,Li-Po,8,185,128.0,True,108.88
+524,Galaxy A21,Samsung,Android 10,4000,Li-Po,3,193,32.0,False,190.0
+525,Galaxy A51 5G,Samsung,Android 10,4500,Li-Po,8,187,128.0,True,204.99
+526,Play 4T,Honor,Android 10,4000,Li-Po,6,176,128.0,False,160.0
+527,Play 4T Pro,Honor,Android 10,4000,Li-Po,8,165,128.0,True,200.0
+528,8A 2020,Honor,Android 9.0,3020,Li-Po,3,150,64.0,False,150.0
+529,Ace2,Oppo,Android 10,4000,Li-Po,8,186,128.0,True,156.8
+530,8 Pro,OnePlus,Android 10,4510,Li-Po,8,199,128.0,True,369.6
+531,8 5G UW (Verizon),OnePlus,Android 10,4300,Li-Po,8,180,128.0,True,740.0
+532,8 5G (T-Mobile),OnePlus,Android 10,4300,Li-Po,8,180,128.0,True,650.0
+533,8,OnePlus,Android 10,4300,Li-Po,6,180,128.0,True,876.0
+534,Find X2 Neo,Oppo,Android 10,4025,Li-Po,12,171,256.0,True,240.0
+535,iPhone SE (2020),Apple,iOS 13,1821,Li-Ion,3,148,64.0,True,189.5
+536,30 Pro+,Honor,Android 10,4000,Li-Po,8,190,256.0,True,650.0
+537,30 Pro,Honor,Android 10,4000,Li-Po,8,186,128.0,True,670.0
+538,30,Honor,Android 10,4000,Li-Po,8,185,128.0,True,1170.0
+539,20e,Honor,Android 9.0,3400,Li-Po,6,164,64.0,False,180.0
+540,9X Lite,Honor,Android 9.0,3750,Li-Po,4,188,128.0,False,220.0
+541,A92s,Oppo,Android 10,4000,Li-Po,8,184,128.0,True,230.0
+542,A52,Oppo,Android 10,5000,Li-Po,8,192,64.0,True,120.0
+543,A12,Oppo,Android 9.0,4230,Li-Po,4,165,32.0,False,469.0
+544,Find X2 Lite,Oppo,Android 10,4025,Li-Po,8,180,128.0,True,540.0
+545,A72,Oppo,Android 10,5000,Li-Po,8,192,128.0,True,520.0
+546,X50m 5G,Realme,Android 10,4200,Li-Po,8,194,128.0,True,260.0
+547,nova 7 5G,Huawei,Android 10,4000,Li-Po,8,180,128.0,True,120.0
+548,nova 7 Pro 5G,Huawei,Android 10,4000,Li-Po,8,178,128.0,True,390.0
+549,Galaxy J2 Core (2020),Samsung,Android 8.1 Oreo,2600,Li-Ion,1,154,16.0,False,238.19
+550,Mi 10 Youth 5G,Xiaomi,Android 10,4160,Li-Po,8,192,64.0,True,270.0
+551,9C,Honor,Android 10,4000,Li-Po,4,176,64.0,False,160.0
+552,9A,Honor,Android 10,5000,Li-Po,3,185,64.0,False,150.0
+553,P smart 2020,Huawei,Android 9.0,3400,Li-Ion,4,160,128.0,False,480.0
+554,9S,Honor,Android 10,3020,Li-Po,2,144,32.0,False,90.0
+555,Mi Note 10 Lite,Xiaomi,Android 10,5260,Li-Po,8,204,64.0,True,254.44
+556,Redmi Note 9,Xiaomi,Android 10,5020,Li-Po,6,199,64.0,False,156.38
+557,Redmi Note 9 Pro,Xiaomi,Android 10,5020,Li-Po,8,209,64.0,True,220.0
+558,A92,Oppo,Android 10,5000,Li-Po,8,192,128.0,True,535.0
+559,Y5p,Huawei,Android 10,3020,Li-Po,2,144,32.0,False,200.0
+560,Y6p,Huawei,Android 10,5000,Li-Po,4,185,32.0,False,110.0
+561,Y8s,Huawei,Android 9.0,4000,Li-Po,4,180,64.0,False,160.0
+562,Velvet 5G,LG,Android 10,4300,Li-Po,8,180,128.0,True,870.0
+563,Narzo 10A,Realme,Android 10,5000,Li-Po,4,195,32.0,False,100.0
+564,Narzo 10,Realme,Android 10,5000,Li-Po,4,199,128.0,False,150.0
+565,Redmi K30 5G Racing,Xiaomi,Android 10,4500,Li-Po,6,208,128.0,True,260.0
+566,Poco F2 Pro,Xiaomi,Android 10,4700,Li-Po,8,219,128.0,True,247.66
+567,P30 Pro New Edition,Huawei,Android 10,4200,Li-Po,8,192,128.0,True,140.0
+568,Galaxy A Quantum,Samsung,Android 10,4500,Li-Po,8,185,128.0,True,299.99
+569,Galaxy A21s,Samsung,Android 10,5000,Li-Po,6,192,32.0,False,500.0
+570,P40 lite 5G,Huawei,Android 10,4000,Li-Po,8,189,128.0,True,820.0
+571,Y8p,Huawei,Android 10,4000,Li-Po,6,163,128.0,False,247.83
+572,V6,Honor,Android 10,7250,Li-Po,8,480,64.0,False,280.0
+573,X10 5G,Honor,Android 10,4300,Li-Po,8,203,64.0,True,250.0
+574,Galaxy S20 5G UW,Samsung,Android 10,4000,Li-Ion,8,168,128.0,True,440.0
+575,Stylo 6,LG,Android 10,4000,Li-Po,3,219,64.0,False,360.0
+576,Q61,LG,Android 9.0,4000,Li-Po,4,187,64.0,False,200.0
+577,Enjoy Z 5G,Huawei,Android 10,4000,Li-Po,8,182,64.0,True,260.0
+578,Redmi K30i 5G,Xiaomi,Android 10,4500,Li-Po,8,208,128.0,True,250.0
+579,X50 Pro Player,Realme,Android 10,4200,Li-Po,6,209,128.0,True,350.0
+580,Redmi 10X 4G,Xiaomi,Android 10,5020,Li-Po,6,199,128.0,False,130.0
+581,Redmi 10X 5G,Xiaomi,Android 10,4520,Li-Po,8,205,64.0,True,200.0
+582,Redmi 10X Pro 5G,Xiaomi,Android 10,4520,Li-Po,8,208,128.0,True,290.0
+583,X3 SuperZoom,Realme,Android 10,4200,Li-Po,8,202,128.0,True,300.0
+584,6S,Realme,Android 11,4300,Li-Po,6,191,64.0,True,200.0
+585,8S 2020,Honor,Android 9.0,3020,Li-Po,3,146,64.0,False,110.0
+586,Galaxy M01,Samsung,Android 10,4000,Li-Ion,3,168,32.0,False,130.0
+587,Play4 Pro,Honor,Android 10,4200,Li-Po,8,213,128.0,True,360.0
+588,Play4,Honor,Android 10,4300,Li-Po,8,213,128.0,True,250.0
+589,Reno4 5G,Oppo,Android 10,4000,Li-Po,8,183,128.0,True,100.0
+590,Reno4 Pro 5G,Oppo,Android 10,4000,Li-Po,8,172,128.0,True,240.0
+591,P Smart S,Huawei,Android 10,4000,Li-Po,4,163,128.0,False,240.0
+592,Redmi 9,Xiaomi,Android 10,5020,Li-Po,6,198,32.0,False,100.62
+593,Enjoy 20 Pro,Huawei,Android 10,4000,Li-Po,8,192,128.0,True,220.0
+594,A11k,Oppo,Android 9.0,4230,Li-Po,2,165,32.0,False,440.0
+595,Narzo,Realme,Android 10,4300,Li-Po,4,191,128.0,True,190.0
+596,C3i,Realme,Android 10,5000,Li-Po,2,195,32.0,True,100.0
+597,X3,Realme,Android 10,4200,Li-Po,8,202,128.0,True,290.0
+598,Redmi 9C,Xiaomi,Android 10,5000,Li-Po,4,196,32.0,False,77.77
+599,C11,Realme,Android 10,5000,Li-Po,3,196,32.0,False,126.99
+600,Redmi 9A,Xiaomi,Android 10,5000,Li-Po,6,196,32.0,False,73.99
+601,X10 Max 5G,Honor,Android 10,5000,Li-Po,8,232,64.0,True,240.0
+602,30 Youth,Honor,Android 10,4000,Li-Po,8,192,64.0,True,220.0
+603,Galaxy A71 5G UW,Samsung,Android 10,4500,Li-Po,8,188,128.0,True,220.0
+604,Poco M2 Pro,Xiaomi,Android 10,5000,Li-Po,6,209,64.0,True,170.0
+605,X50 5G,Realme,Android 10,4200,Li-Po,8,194,128.0,True,500.0
+606,A12s,Oppo,Android 9.0,4230,Li-Po,3,165,32.0,False,270.0
+607,Galaxy M01s,Samsung,Android 9.0,4000,Li-Ion,3,168,32.0,False,60.0
+608,Nord,OnePlus,Android 10,4115,Li-Po,6,184,64.0,True,319.0
+609,Galaxy A01 Core,Samsung,Android 10,3000,Li-Ion,2,150,16.0,False,110.0
+610,Legion Pro,Lenovo,Android 10,5000,Li-Po,8,239,128.0,True,100.0
+611,Legion Duel,Lenovo,Android 10,5000,Li-Po,16,239,256.0,True,510.0
+612,Galaxy Z Flip 5G,Samsung,Android 10,3300,Li-Po,8,183,256.0,True,300.0
+613,6i (India),Realme,Android 10,4300,Li-Po,6,191,64.0,True,150.0
+614,A72 5G,Oppo,Android 10,4040,Li-Po,8,175,128.0,True,290.0
+615,Galaxy M01 Core,Samsung,Android 10,3000,Li-Ion,2,150,16.0,False,150.0
+616,Velvet,LG,Android 10,4300,Li-Po,6,180,128.0,True,470.0
+617,C15,Realme,Android 10,6000,Li-Po,4,209,32.0,False,95.988
+618,Reno4,Oppo,Android 10,4015,Li-Po,8,165,128.0,True,355.0
+619,Galaxy M31s,Samsung,Android 10,6000,Li-Po,8,203,128.0,True,110.0
+620,Black Shark 3S,Xiaomi,Android 10,4729,Li-Po,12,222,128.0,True,600.0
+621,Reno4 Pro,Oppo,Android 10,4000,Li-Po,8,161,128.0,True,250.0
+622,V5 5G,Realme,Android 10,5000,Li-Po,8,194,128.0,True,180.0
+623,Pixel 4a,Google,Android 10,3140,Li-Po,6,143,128.0,True,330.0
+624,Redmi 9 Prime,Xiaomi,Android 10,5020,Li-Po,4,198,64.0,False,127.188
+625,K7 5G,Oppo,Android 10,4025,Li-Po,8,180,128.0,True,1349.0
+626,Galaxy Note20 5G,Samsung,Android 10,4300,Li-Ion,8,192,128.0,True,850.0
+627,Galaxy Note20,Samsung,Android 10,4300,Li-Ion,8,192,256.0,True,800.0
+628,Galaxy Note20 Ultra,Samsung,Android 10,4500,Li-Ion,8,208,256.0,True,261.0
+629,Galaxy Note20 Ultra 5G,Samsung,Android 10,4500,Li-Ion,8,208,128.0,True,1250.0
+630,Galaxy Z Fold2 5G,Samsung,Android 10,4500,Li-Po,12,282,256.0,True,850.0
+631,Redmi K30 Ultra,Xiaomi,Android 10,4500,Li-Po,8,213,128.0,True,250.0
+632,Mi 10 Ultra,Xiaomi,Android 10,4500,Li-Ion,8,221,128.0,True,650.0
+633,C12,Realme,Android 10,6000,Li-Po,4,209,32.0,False,110.0
+634,Galaxy A51 5G UW,Samsung,Android 10,4500,Li-Po,6,188,128.0,True,960.0
+635,Velvet 5G UW,LG,Android 10,4300,Li-Po,6,187,128.0,True,270.0
+636,A53,Oppo,Android 10,5000,Li-Po,6,186,64.0,False,1000.0
+637,K31,LG,Android 10,3000,Li-Ion,2,146,32.0,False,590.0
+638,Q92 5G,LG,Android 10,4000,Li-Po,6,193,128.0,True,150.0
+639,Redmi 9 (India),Xiaomi,Android 10,5000,Li-Po,4,194,64.0,False,110.0
+640,Redmi 9C NFC,Xiaomi,Android 10,5000,Li-Po,4,196,32.0,False,100.0
+641,Galaxy M51,Samsung,Android 10,7000,Li-Po,8,213,128.0,True,470.0
+642,X7 Pro,Realme,Android 10,4500,Li-Po,8,184,128.0,True,470.0
+643,X7,Realme,Android 10,4300,Li-Po,8,175,128.0,True,330.0
+644,V3,Realme,Android 10,5000,Li-Po,8,189,64.0,True,120.0
+645,F17 Pro,Oppo,Android 10,4015,Li-Po,8,164,128.0,True,330.0
+646,F17,Oppo,Android 10,4015,Li-Po,8,163,64.0,False,230.0
+647,Galaxy A42 5G,Samsung,Android 10,5000,Li-Po,8,193,128.0,True,470.0
+648,Enjoy 20 Plus 5G,Huawei,Android 10,4200,Li-Po,8,197,128.0,True,210.0
+649,7 (Asia),Realme,Android 10,5000,Li-Po,8,196,64.0,True,170.0
+650,7 Pro,Realme,Android 10,4500,Li-Po,8,182,128.0,True,340.0
+651,Enjoy 20 5G,Huawei,Android 10,5000,Li-Po,6,188,64.0,False,250.0
+652,Poco X3 NFC,Xiaomi,Android 10,5160,Li-Po,8,215,64.0,True,260.0
+653,Y9a,Huawei,Android 10,4300,Li-Po,8,197,128.0,True,280.0
+654,Poco M2,Xiaomi,Android 10,5000,Li-Po,6,198,64.0,False,125.988
+655,Redmi 9AT,Xiaomi,Android 10,5000,Li-Po,2,194,32.0,False,75.73
+656,A32,Oppo,Android 10,5000,Li-Po,8,186,64.0,False,120.0
+657,30i,Honor,Android 10,4000,Li-Po,4,171,128.0,False,200.0
+658,K22,LG,Android 10,3000,Li-Po,3,169,32.0,False,360.0
+659,Wing 5G,LG,Android 10,4000,Li-Po,8,260,128.0,True,140.0
+660,Redmi 9i,Xiaomi,Android 10,5000,Li-Po,4,194,64.0,False,113.988
+661,Q31,LG,Android 10,3000,Li-Ion,3,145,32.0,False,130.0
+662,7i,Realme,Android 10,5000,Li-Po,8,188,64.0,False,180.0
+663,Xperia 5 II,Sony,Android 10,4000,Li-Ion,8,163,128.0,True,650.0
+664,K71,LG,Android 10,4000,Li-Po,4,220,128.0,False,850.0
+665,K42,LG,Android 10,4000,Li-Po,3,182,64.0,False,140.0
+666,Reno4 SE,Oppo,Android 10,4300,Li-Po,8,169,128.0,True,390.0
+667,Narzo 20,Realme,Android 10,6000,Li-Po,4,208,64.0,False,130.0
+668,C17,Realme,Android 10,5000,Li-Po,6,188,64.0,False,160.0
+669,Narzo 20A,Realme,Android 10,5000,Li-Po,4,195,32.0,True,100.0
+670,Narzo 20 Pro,Realme,Android 10,4500,Li-Po,8,191,64.0,True,170.0
+671,Poco X3,Xiaomi,Android 10,6000,Li-Po,8,225,64.0,True,191.88
+672,K62,LG,Android 10,4000,Li-Po,4,186,64.0,False,290.0
+673,K52,LG,Android 10,4000,Li-Po,4,188,64.0,False,220.0
+674,Galaxy S20 FE,Samsung,Android 10,4500,Li-Ion,8,190,128.0,True,299.99
+675,Galaxy S20 FE 5G,Samsung,Android 10,4500,Li-Ion,8,190,128.0,True,390.0
+676,Q52,LG,Android 10,4000,Li-Po,4,186,64.0,False,240.0
+677,P smart 2021,Huawei,Android 10,5000,Li-Po,4,206,64.0,False,200.0
+678,Reno4 Lite,Oppo,Android 10,4015,Li-Po,8,164,128.0,True,168.92
+679,A33 (2020),Oppo,Android 10,5000,Li-Po,4,186,32.0,False,190.0
+680,K92 5G,LG,Android 10,4000,Li-Po,6,202,128.0,True,340.0
+681,Reno4 Z 5G,Oppo,Android 10,4000,Li-Po,8,184,128.0,True,150.0
+682,Pixel 5,Google,Android 11,4080,Li-Po,8,151,128.0,True,238.0
+683,Mi 10T Pro 5G,Xiaomi,Android 10,5000,Li-Po,8,218,128.0,True,369.31
+684,Pixel 4a 5G,Google,Android 11,3885,Li-Po,6,168,128.0,True,380.0
+685,Mi 10T 5G,Xiaomi,Android 10,5000,Li-Po,8,216,128.0,True,429.99
+686,Mi 10T Lite 5G,Xiaomi,Android 10,4820,Li-Po,6,214,64.0,True,322.99
+687,A93,Oppo,Android 10,4000,Li-Po,8,164,128.0,True,200.0
+688,A73,Oppo,Android 10,4015,Li-Po,6,163,128.0,False,270.0
+689,Poco C3,Xiaomi,Android 10,5000,Li-Po,4,194,32.0,False,80.0
+690,7 (Global),Realme,Android 10,5000,Li-Po,8,196,64.0,True,250.0
+691,Galaxy F41,Samsung,Android 10,6000,Li-Po,6,191,64.0,True,330.0
+692,Reno4 F,Oppo,Android 10,4000,Li-Po,8,164,128.0,True,370.0
+693,A53s,Oppo,Android 10,5000,Li-Po,4,186,64.0,False,320.0
+694,iPhone 12 Pro,Apple,iOS 14.1,2815,Li-Ion,6,189,128.0,True,567.86
+695,iPhone 12,Apple,iOS 14.1,2815,Li-Ion,4,164,64.0,True,607.0
+696,iPhone 12 Pro Max,Apple,iOS 14.1,3687,Li-Ion,6,228,128.0,True,1298.67
+697,Q2i,Realme,Android 10,5000,Li-Po,4,189,128.0,True,130.0
+698,Q2,Realme,Android 10,5000,Li-Po,6,194,128.0,True,160.0
+699,Q2 Pro,Realme,Android 10,4300,Li-Po,8,175,128.0,True,310.0
+700,iPhone 12 mini,Apple,iOS 14.1,2227,Li-Ion,4,135,64.0,True,868.24
+701,8T,OnePlus,Android 11,4500,Li-Po,8,188,128.0,True,269.0
+702,Galaxy M31 Prime,Samsung,Android 10,6000,Li-Po,6,191,128.0,True,200.0
+703,8T+ 5G,OnePlus,Android 11,4500,Li-Po,12,187,256.0,True,640.0
+704,A15,Oppo,Android 10,4230,Li-Po,3,175,32.0,False,130.0
+705,A8 2020,Lenovo,Android 10,5000,Li-Po,4,205,64.0,False,90.0
+706,nova 7 SE 5G Youth,Huawei,Android 10,4000,Li-Po,8,189,128.0,True,160.0
+707,Y7a,Huawei,Android 10,5000,Li-Po,4,206,64.0,False,230.0
+708,Mate 40 Pro+,Huawei,Android 10,4400,Li-Po,8,230,256.0,True,790.0
+709,Mate 40 Pro,Huawei,Android 10,4400,Li-Po,8,212,128.0,True,630.0
+710,Mate 40 RS Porsche Design,Huawei,Android 10,4400,Li-Po,8,234,256.0,True,1400.0
+711,Mate 30E Pro 5G,Huawei,Android 10,4500,Li-Po,8,198,128.0,True,290.0
+712,Mate 40,Huawei,Android 10,4200,Li-Po,8,188,128.0,True,680.0
+713,Nord N100,OnePlus,Android 10,5000,Li-Po,4,188,64.0,False,123.22
+714,Nord N10 5G,OnePlus,Android 10,4300,Li-Po,6,190,128.0,True,226.72
+715,Redmi K30S,Xiaomi,Android 10,5000,Li-Po,8,216,128.0,True,330.0
+716,C15 Qualcomm Edition,Realme,Android 10,6000,Li-Po,4,209,32.0,False,110.0
+717,10X Lite,Honor,Android 10,5000,Li-Po,4,206,128.0,False,230.0
+718,A73 5G,Oppo,Android 10,4040,Li-Po,8,177,128.0,False,260.0
+719,K7x,Oppo,Android 10,5000,Li-Po,8,194,128.0,True,349.0
+720,Galaxy M21s,Samsung,Android 10,6000,Li-Po,4,191,64.0,True,190.0
+721,W31,LG,Android 10,4000,Li-Po,4,173,64.0,False,130.0
+722,W31+,LG,Android 10,4000,Li-Po,4,173,128.0,False,140.0
+723,nova 8 SE,Huawei,Android 10,3800,Li-Po,8,178,128.0,True,1400.0
+724,7 5G,Realme,Android 10,5000,Li-Po,8,195,128.0,True,276.92
+725,Galaxy A02s,Samsung,Android 10,5000,Li-Po,4,196,16.0,False,230.0
+726,Poco M3,Xiaomi,Android 10,6000,Li-Po,6,198,64.0,False,199.99
+727,Galaxy A12,Samsung,Android 10,5000,Li-Po,6,205,32.0,False,80.0
+728,Redmi Note 9 5G,Xiaomi,Android 10,5000,Li-Po,8,199,64.0,True,170.0
+729,Redmi Note 9 Pro 5G,Xiaomi,Android 10,4820,Li-Po,8,215,128.0,True,370.0
+730,Redmi Note 9 4G,Xiaomi,Android 10,6000,Li-Po,8,198,128.0,False,130.0
+731,K12 Pro,Lenovo,Android 10,6000,Li-Po,4,221,64.0,False,130.0
+732,K12 (China),Lenovo,Android 10,5000,Li-Po,4,200,64.0,False,100.0
+733,Reno5 Pro 5G,Oppo,Android 11,4350,Li-Po,8,173,128.0,True,529.0
+734,Reno5 5G,Oppo,Android 11,4300,Li-Po,8,172,128.0,True,280.0
+735,Redmi 9 Power,Xiaomi,Android 10,6000,Li-Po,6,198,64.0,False,120.0
+736,A15s,Oppo,Android 10,4230,Li-Po,4,177,64.0,False,299.0
+737,A53 5G,Oppo,Android 10,4040,Li-Po,8,175,128.0,True,169.0
+738,7i (Global),Realme,Android 10,6000,Li-Po,4,208,64.0,False,190.0
+739,nova 8 Pro 5G,Huawei,Android 10,4000,Li-Po,8,184,128.0,True,410.0
+740,nova 8 5G,Huawei,Android 10,3800,Li-Po,8,169,128.0,True,160.0
+741,Enjoy 20 SE,Huawei,Android 10,5000,Li-Po,8,206,128.0,False,330.0
+742,Reno5 Pro+ 5G,Oppo,Android 11,4500,Li-Po,8,184,128.0,True,250.0
+743,Mi 11,Xiaomi,Android 11,4600,Li-Po,6,196,128.0,True,792.43
+744,Reno5 4G,Oppo,Android 11,4310,Li-Po,8,171,128.0,True,240.0
+745,Mi 10i 5G,Xiaomi,Android 10,4820,Li-Po,8,214,128.0,True,250.0
+746,Galaxy M02s,Samsung,Android 10,5000,Li-Po,4,196,32.0,False,220.0
+747,V15 5G,Realme,Android 10,4310,Li-Po,8,176,128.0,True,190.0
+748,Redmi Note 9T,Xiaomi,Android 10,5000,Li-Po,6,199,64.0,True,163.98
+749,Redmi 9T,Xiaomi,Android 10,6000,Li-Po,6,198,64.0,False,189.99
+750,Galaxy A32 5G,Samsung,Android 11,5000,Li-Ion,8,205,64.0,True,100.0
+751,Galaxy S21 Ultra 5G,Samsung,Android 11,5000,Li-Ion,16,227,128.0,True,539.47
+752,A93 5G,Oppo,Android 11,5000,Li-Po,8,188,128.0,False,410.0
+753,Galaxy S21 5G,Samsung,Android 11,4000,Li-Ion,8,169,128.0,True,240.45
+754,Galaxy S21+ 5G,Samsung,Android 11,4800,Li-Ion,8,200,128.0,True,443.89
+755,C20,Realme,Android 10,5000,Li-Po,2,190,32.0,False,90.0
+756,V40 5G,Honor,Android 10,4000,Li-Po,8,189,128.0,True,460.0
+757,A55 5G,Oppo,Android 11,5000,Li-Po,8,186,128.0,False,500.0
+758,Galaxy A02,Samsung,Android 10,5000,Li-Po,4,206,32.0,False,146.98
+759,Galaxy M02,Samsung,Android 10,5000,Li-Po,3,206,32.0,False,169.0
+760,X7 (India),Realme,Android 10,4310,Li-Po,8,176,128.0,True,230.0
+761,Galaxy M12 (India),Samsung,Android 11,6000,Li-Po,6,221,64.0,False,666.9
+762,V11 5G,Realme,Android 11,5000,Li-Po,6,186,128.0,True,160.0
+763,Galaxy F62,Samsung,Android 11,7000,Li-Po,8,218,128.0,True,130.0
+764,Mate X2,Huawei,Android 10,4500,Li-Po,8,295,256.0,True,600.0
+765,W41 Pro,LG,Android 10,5000,Li-Po,6,201,128.0,False,180.0
+766,W41+,LG,Android 10,5000,Li-Po,4,201,128.0,False,170.0
+767,W41,LG,Android 10,5000,Li-Po,4,201,64.0,False,160.0
+768,Galaxy M62,Samsung,Android 11,7000,Li-Po,8,218,128.0,True,270.0
+769,Narzo 30A,Realme,Android 10,6000,Li-Po,4,205,32.0,False,435.0
+770,Narzo 30 Pro 5G,Realme,Android 10,5000,Li-Po,8,196,64.0,True,200.0
+771,Redmi K40,Xiaomi,Android 11,4520,Li-Po,6,196,128.0,True,280.0
+772,Redmi K40 Pro,Xiaomi,Android 11,4520,Li-Po,6,196,128.0,True,360.0
+773,Redmi K40 Pro+,Xiaomi,Android 11,4520,Li-Po,12,196,256.0,True,470.0
+774,Reno5 K,Oppo,Android 11,4300,Li-Po,8,172,128.0,True,310.0
+775,Galaxy A32,Samsung,Android 11,5000,Li-Ion,8,184,64.0,False,274.44
+776,P40 4G,Huawei,Android 10,3800,Li-Po,8,175,128.0,True,2300.0
+777,Mi Mix Fold,Xiaomi,Android 10,5020,Li-Po,16,317,256.0,True,1300.0
+778,Redmi Note 10S,Xiaomi,Android 11,5000,Li-Po,8,178,64.0,True,179.0
+779,Redmi Note 10 Pro,Xiaomi,Android 11,5020,Li-Po,8,193,64.0,True,199.0
+780,Redmi Note 10 5G,Xiaomi,Android 11,5000,Li-Po,8,190,64.0,False,176.4
+781,Redmi Note 10,Xiaomi,Android 11,5000,Li-Po,6,178,64.0,True,249.99
+782,Redmi Note 10 Pro Max,Xiaomi,Android 11,5020,Li-Po,8,192,64.0,True,220.0
+783,Redmi Note 10 Pro (India),Xiaomi,Android 11,5020,Li-Po,8,192,64.0,True,180.0
+784,Galaxy Xcover 5,Samsung,Android 11,3000,Li-Ion,4,172,64.0,False,215.98
+785,GT 5G,Realme,Android 11,4500,Li-Po,8,186,128.0,True,349.99
+786,A94,Oppo,Android 11,4310,Li-Po,8,172,128.0,True,260.0
+787,C21,Realme,Android 10,5000,Li-Po,4,190,32.0,False,141.04
+788,F19 Pro+ 5G,Oppo,Android 11,4310,Li-Po,8,173,128.0,True,370.0
+789,F19 Pro,Oppo,Android 11,4310,Li-Po,8,172,128.0,True,200.0
+790,Mi 10S,Xiaomi,Android 11,4780,Li-Po,8,208,128.0,True,430.0
+791,Mate 40E,Huawei,Android 10,4200,Li-Po,8,188,128.0,True,500.0
+792,Find X3 Lite,Oppo,Android 11,4300,Li-Po,8,172,128.0,True,250.0
+793,Find X3 Neo,Oppo,Android 11,4500,Li-Po,12,184,128.0,True,275.0
+794,Find X3,Oppo,Android 11,4500,Li-Po,8,193,128.0,True,300.0
+795,Find X3 Pro,Oppo,Android 11,4500,Li-Po,8,193,256.0,True,250.0
+796,Galaxy A52 5G,Samsung,Android 11,4500,Li-Po,8,189,128.0,True,364.88
+797,Galaxy A72,Samsung,Android 11,5000,Li-Ion,8,203,128.0,True,449.9
+798,Galaxy A52,Samsung,Android 11,4500,Li-Po,8,189,128.0,True,349.0
+799,Reno5 F,Oppo,Android 11,4310,Li-Po,8,172,128.0,True,130.0
+800,Poco F3,Xiaomi,Android 11,4520,Li-Po,8,196,128.0,True,380.0
+801,Poco X3 Pro,Xiaomi,Android 11,5160,Li-Po,8,215,128.0,True,274.09
+802,V40 Lite,Honor,Android 10,3800,Li-Po,8,169,128.0,True,390.0
+803,9R,OnePlus,Android 10,4500,Li-Po,8,189,128.0,True,308.0
+804,9,OnePlus,Android 11,4500,Li-Po,8,192,128.0,True,304.2
+805,Reno5 Lite,Oppo,Android 11,4310,Li-Po,8,172,128.0,True,260.0
+806,9 Pro,OnePlus,Android 11,4500,Li-Po,8,197,128.0,True,372.4
+807,C25,Realme,Android 11,6000,Li-Po,4,209,64.0,False,140.0
+808,Black Shark 4,Xiaomi,Android 11,4500,Li-Po,6,210,128.0,True,930.0
+809,Black Shark 4 Pro,Xiaomi,Android 11,4500,Li-Po,8,220,128.0,True,500.0
+810,vivo iQOO Neo5 Lite,Vivo,Android 11,4500,Li-Po,8,198,128.0,True,320.0
+811,8 Pro,Realme,Android 11,4500,Li-Po,8,176,128.0,True,550.0
+812,8,Realme,Android 11,5000,Li-Po,8,177,64.0,True,178.9
+813,A54,Oppo,Android 10,5000,Li-Po,6,192,64.0,False,311.88
+814,Mi 11 Ultra,Xiaomi,Android 11,5000,Li-Po,8,234,256.0,True,1500.0
+815,Mi 11 Lite,Xiaomi,Android 11,4250,Li-Po,8,157,64.0,True,478.13
+816,Mi 11i,Xiaomi,Android 11,4520,Li-Po,8,196,128.0,True,525.0
+817,Mi 11 Lite 5G,Xiaomi,Android 11,4250,Li-Po,8,159,64.0,True,271.8
+818,Mi 11 Pro,Xiaomi,Android 11,5000,Li-Po,8,208,128.0,True,561.25
+819,GT Neo,Realme,Android 11,4500,Li-Po,6,179,128.0,True,260.0
+820,V13 5G,Realme,Android 11,5000,Li-Po,8,185,128.0,False,210.0
+821,F19,Oppo,Android 11,5000,Li-Po,6,175,128.0,False,255.0
+822,X7 Pro Ultra,Realme,Android 11,4500,Li-Po,8,170,128.0,True,310.0
+823,Reno5 Z,Oppo,Android 11,4310,Li-Po,8,173,128.0,True,161.88
+824,Galaxy F02s,Samsung,Android 10,5000,Li-Po,4,196,32.0,False,100.0
+825,A74 5G,Oppo,Android 11,5000,Li-Po,8,190,128.0,False,600.0
+826,A74,Oppo,Android 11,5000,Li-Po,8,175,128.0,False,405.99
+827,Galaxy F12,Samsung,Android 11,6000,Li-Po,4,221,64.0,False,130.0
+828,Legion 2 Pro,Lenovo,Android 11,5500,Li-Po,18,259,128.0,True,880.0
+829,Legion Duel 2,Lenovo,Android 11,5500,Li-Po,16,259,256.0,True,800.0
+830,Galaxy Quantum 2,Samsung,Android 11,4500,Li-Po,6,176,128.0,True,520.0
+831,A35,Oppo,Android 10,4230,Li-Po,4,177,64.0,False,220.0
+832,Xperia 1 III,Sony,Android 11,4500,Li-Po,12,186,256.0,True,495.0
+833,Xperia 5 III,Sony,Android 11,4500,Li-Po,8,168,128.0,True,589.99
+834,A54 5G,Oppo,Android 11,5000,Li-Po,4,190,64.0,False,517.28
+835,Xperia 10 III,Sony,Android 11,4500,Li-Po,6,169,128.0,True,746.0
+836,A94 5G,Oppo,Android 11,4310,Li-Po,8,173,128.0,True,300.0
+837,Galaxy M12,Samsung,Android 11,5000,Li-Po,4,212,32.0,False,428.47
+838,Play 5T Youth,Honor,Android 10,5000,Li-Po,8,191,128.0,False,170.0
+839,8 5G,Realme,Android 11,5000,Li-Po,8,185,64.0,False,405.0
+840,Poco M2 Reloaded,Xiaomi,Android 10,5000,Li-Po,4,198,64.0,False,100.0
+841,Q3i 5G,Realme,Android 11,5000,Li-Po,6,185,128.0,False,130.0
+842,Q3 5G,Realme,Android 11,5000,Li-Po,8,189,128.0,True,170.0
+843,Q3 Pro 5G,Realme,Android 11,4500,Li-Po,8,179,128.0,True,210.0
+844,Mi 11X,Xiaomi,Android 11,4520,Li-Po,8,196,128.0,True,359.988
+845,Mi 11X Pro,Xiaomi,Android 11,4520,Li-Po,8,196,128.0,True,479.988
+846,vivo iQOO 7 (India),Vivo,Android 11,4400,Li-Po,8,196,128.0,True,350.0
+847,Play 20,Honor,Android 10,5000,Li-Po,8,198,64.0,False,110.0
+848,nova 8 Pro 4G,Huawei,Android 10,4000,Li-Po,8,184,128.0,True,600.0
+849,A53s 5G,Oppo,Android 11,5000,Li-Po,8,189,128.0,False,151.9
+850,vivo V21e,Vivo,Android 11,4000,Li-Po,8,171,128.0,True,350.0
+851,A95 5G,Oppo,Android 11,4310,Li-Po,8,173,128.0,True,215.0
+852,vivo V21,Vivo,Android 11,4000,Li-Po,8,176,128.0,True,350.0
+853,vivo V21 5G,Vivo,Android 11,4000,Li-Po,8,176,128.0,True,350.0
+854,Redmi K40 Gaming,Xiaomi,Android 11,5065,Li-Po,6,205,128.0,True,260.0
+855,Galaxy M42 5G,Samsung,Android 11,5000,Li-Po,8,190,128.0,True,220.0
+856,vivo Y52s t1,Vivo,Android 11,5000,Li-Po,8,185,128.0,False,350.0
+857,K9,Oppo,Android 11,4300,Li-Po,8,172,128.0,True,330.0
+858,C20A,Realme,Android 10,5000,Li-Po,2,190,32.0,False,90.0
+859,vivo Y12s 2021,Vivo,Android 11,5000,Li-Po,3,191,32.0,False,350.0
+860,Play5 5G,Honor,Android 10,3800,Li-Po,8,179,128.0,True,270.0
+861,Narzo 30,Realme,Android 11,5000,Li-Po,6,192,64.0,True,445.0
+862,vivo Y52 5G,Vivo,Android 11,5000,Li-Po,4,193,128.0,False,240.0
+863,Poco M3 Pro 5G,Xiaomi,Android 11,5000,Li-Po,6,190,64.0,False,188.41
+864,Galaxy F52 5G,Samsung,Android 11,4500,Li-Po,8,199,128.0,True,260.0
+865,vivo X60s,Vivo,Android 11,4200,Li-Po,8,176,128.0,True,269.0
+866,GT Neo Flash,Realme,Android 11,4500,Li-Po,8,179,256.0,True,290.0
+867,Redmi Note 8 2021,Xiaomi,Android 11,4000,Li-Po,4,190,64.0,False,179.0
+868,Q3 Pro Carnival,Realme,Android 11,4500,Li-Po,8,174,128.0,True,230.0
+869,Redmi Note 10 Pro (China),Xiaomi,Android 11,5000,Li-Po,8,193,128.0,True,200.0
+870,Narzo 30 5G,Realme,Android 11,5000,Li-Po,6,185,64.0,False,219.98
+871,Reno6 Pro 5G,Oppo,Android 11,4500,Li-Po,8,177,128.0,True,170.0
+872,Reno6 5G,Oppo,Android 11,4300,Li-Po,8,182,128.0,True,264.61
+873,Reno6 Pro+ 5G,Oppo,Android 11,4500,Li-Po,8,188,128.0,True,260.0
+874,X7 Max 5G,Realme,Android 11,4500,Li-Po,8,179,128.0,True,310.0
+875,Galaxy A22,Samsung,Android 11,5000,Li-Po,6,186,64.0,False,310.14
+876,Galaxy A22 5G,Samsung,Android 11,5000,Li-Po,8,203,64.0,False,229.0
+877,vivo Y70t,Vivo,Android 10,4500,Li-Po,8,190,128.0,True,270.0
+878,vivo iQOO U3x Standard,Vivo,Android 11,5000,Li-Po,6,191,128.0,False,212.4
+879,C25s,Realme,Android 11,6000,Li-Po,4,209,64.0,False,239.95
+880,vivo Y53s,Vivo,Android 11,5000,Li-Po,8,189,128.0,False,120.0
+881,vivo Y73,Vivo,Android 11,4000,Li-Po,8,170,128.0,True,230.0
+882,Nord CE 5G,OnePlus,Android 11,4500,Li-Po,6,170,128.0,True,455.0
+883,50,Honor,Android 11,4300,Li-Po,6,175,128.0,True,455.0
+884,50 SE,Honor,Android 11,4000,Li-Po,8,191,128.0,True,310.0
+885,50 Pro,Honor,Android 11,4000,Li-Po,8,187,256.0,True,480.0
+886,C21Y,Realme,Android 10/ Android 11,5000,Li-Po,4,200,32.0,False,130.0
+887,Nord N200 5G,OnePlus,Android 11,5000,Li-Po,4,189,64.0,False,149.99
+888,Galaxy M32,Samsung,Android 11,6000,Li-Ion,8,180,64.0,False,269.99
+889,vivo Y12a,Vivo,Android 11,5000,Li-Po,3,191,32.0,False,221.88
+890,K13 Note,Lenovo,Android 11,5000,Li-Po,4,200,128.0,False,120.0
+891,vivo V21e 5G,Vivo,Android 11,4000,Li-Po,8,165,128.0,True,240.0
+892,vivo X60t Pro+,Vivo,Android 11,4200,Li-Po,8,191,128.0,True,290.0
+893,C11 (2021),Realme,Android 11,5000,Li-Po,4,190,32.0,False,89.988
+894,X20 SE,Honor,Android 11,4000,Li-Po,8,179,128.0,False,240.0
+895,Galaxy F22,Samsung,Android 11,6000,Li-Po,6,203,64.0,False,170.0
+896,nova 8i,Huawei,Android 10,4300,Li-Po,8,190,128.0,False,246.68
+897,vivo Y53s 4G,Vivo,Android 11,5000,Li-Po,8,190,128.0,False,460.0
+898,vivo S10 Pro,Vivo,Android 11,4050,Li-Po,8,173,128.0,True,650.0
+899,vivo S10,Vivo,Android 11,4050,Li-Po,8,173,128.0,True,310.89
+900,vivo Y72 5G (India),Vivo,Android 11,5000,Li-Po,8,185,128.0,False,190.0
+901,A16,Oppo,Android 11,5000,Li-Po,4,190,32.0,False,309.99
+902,Redmi Note 10T 5G,Xiaomi,Android 11,5000,Li-Po,6,190,64.0,False,170.0
+903,Reno6 Z,Oppo,Android 11,4310,Li-Po,8,173,128.0,True,520.0
+904,Galaxy M21 2021,Samsung,Android 11,6000,Li-Po,6,192,64.0,True,130.0
+905,GT Explorer Master,Realme,Android 11,4500,Li-Po,8,183,128.0,True,380.0
+906,GT Master,Realme,Android 11,4300,Li-Po,8,174,128.0,True,499.0
+907,Nord 2 5G,OnePlus,Android 11,4500,Li-Po,6,189,128.0,True,299.0
+908,Poco F3 GT,Xiaomi,Android 11,5065,Li-Po,8,205,128.0,True,239.988
+909,A93s 5G,Oppo,Android 11,5000,Li-Po,8,188,128.0,False,160.0
+910,Reno6,Oppo,Android 11,4310,Li-Po,8,173,128.0,True,175.95
+911,Poco X3 GT,Xiaomi,Android 11,5000,Li-Po,8,193,128.0,True,309.52
+912,nova 8 SE Youth,Huawei,Android 10,4000,Li-Po,8,179,128.0,False,250.0
+913,Play 5T Pro,Honor,Android 11,4000,Li-Po,8,179,128.0,False,200.0
+914,nova 8,Huawei,Android 11,3800,Li-Po,8,169,128.0,True,420.0
+915,Galaxy A12 Nacho,Samsung,Android 11,5000,Li-Po,4,205,32.0,False,249.0
+916,Mix 4,Xiaomi,Android 11,4500,Li-Po,8,225,128.0,True,660.0
+917,Galaxy Z Flip3 5G,Samsung,Android 11,3300,Li-Po,8,183,128.0,True,613.0
+918,Galaxy Z Fold3 5G,Samsung,Android 11,4400,Li-Po,12,271,256.0,True,835.0
+919,Magic3 Pro+,Honor,Android 11,4600,Li-Po,12,236,512.0,True,1070.0
+920,Magic3,Honor,Android 11,4600,Li-Po,8,203,128.0,True,670.0
+921,Galaxy A12 (India),Samsung,Android 11,5000,Li-Po,6,205,64.0,False,160.0
+922,Magic3 Pro,Honor,Android 11,4600,Li-Po,8,212,256.0,True,800.0
+923,X20,Honor,Android 11,4300,Li-Po,8,192,128.0,True,250.0
+924,A16s,Oppo,Android 11,5000,Li-Po,4,190,64.0,False,329.0
+925,Galaxy A52s 5G,Samsung,Android 11,4500,Li-Ion,8,189,128.0,True,334.0
+926,vivo iQOO 8,Vivo,Android 11,4350,Li-Po,8,200,128.0,True,240.0
+927,Pixel 5a 5G,Google,Android 11,4680,Li-Po,6,183,128.0,True,357.61
+928,vivo iQOO 8 Pro,Vivo,Android 11,4500,Li-Po,8,205,256.0,False,370.0
+929,Galaxy A03s,Samsung,Android 11,5000,Li-Po,4,196,32.0,False,149.0
+930,Redmi 10,Xiaomi,Android 11,5000,Li-Po,6,181,64.0,False,135.52
+931,vivo Y21,Vivo,Android 11,5000,Li-Po,4,182,64.0,False,500.0
+932,Xperia 10 III Lite,Sony,Android 11,4500,Li-Po,6,169,64.0,True,370.0
+933,vivo Y33s,Vivo,Android 11,5000,Li-Po,8,182,64.0,False,120.0
+934,Galaxy M32 5G,Samsung,Android 11,5000,Li-Ion,8,205,128.0,True,220.0
+935,K13,Lenovo,Android 10,5000,Li-Ion,2,200,32.0,False,90.0
+936,K13 Pro,Lenovo,Android 11,5000,Li-Po,6,200,64.0,False,150.0
+937,Redmi 10 Prime,Xiaomi,Android 11,6000,Li-Po,6,192,64.0,False,140.0
+938,nova Y60,Huawei,Android 10,5000,Li-Po,4,185,64.0,False,150.0
+939,8i,Realme,Android 11,5000,Li-Po,6,194,64.0,False,149.99
+940,vivo X70 Pro+,Vivo,Android 11,4500,Li-Po,8,209,256.0,True,660.0
+941,vivo X70 Pro,Vivo,Android 11,4450,Li-Po,8,183,128.0,True,120.0
+942,vivo X70,Vivo,Android 11,4400,Li-Po,8,181,128.0,True,500.0
+943,Reno6 Pro 5G (Snapdragon),Oppo,Android 11,4500,Li-Po,12,188,256.0,True,145.0
+944,8s 5G,Realme,Android 11,5000,Li-Po,8,191,128.0,False,269.988
+945,Galaxy M22,Samsung,Android 11,5000,Li-Po,6,186,64.0,False,243.38
+946,iPhone 13 Pro Max,Apple,iOS 15,4352,Li-Ion,6,240,128.0,True,897.62
+947,iPhone 13 mini,Apple,iOS 15,2438,Li-Ion,4,141,128.0,True,684.0
+948,iPhone 13,Apple,iOS 15,3240,Li-Ion,4,174,128.0,True,648.0
+949,iPhone 13 Pro,Apple,iOS 15,3095,Li-Ion,6,204,128.0,True,1580.09
+950,11 Lite 5G NE,Xiaomi,Android 11,4250,Li-Po,8,158,128.0,True,319.03
+951,11T,Xiaomi,Android 11,5000,Li-Po,8,203,128.0,True,329.9
+952,11T Pro,Xiaomi,Android 11,5000,Li-Po,8,204,128.0,True,389.9
+953,C25Y,Realme,Android 11,5000,Li-Po,6,200,64.0,False,123.18
+954,vivo Y21s,Vivo,Android 11,5000,Li-Po,6,182,128.0,False,167.88
+955,GT Neo2,Realme,Android 11,5000,Li-Po,8,199,128.0,True,278.0
+956,vivo iQOO Z5,Vivo,Android 11,5000,Li-Po,8,193,128.0,True,188.988
+957,Narzo 50i,Realme,Android 11,5000,Li-Po,4,195,32.0,False,90.0
+958,Narzo 50A,Realme,Android 11,6000,Li-Po,4,207,64.0,False,125.988
+959,Galaxy M52 5G,Samsung,Android 11,5000,Li-Ion,8,173,128.0,True,398.94
+960,Redmi 9 Activ,Xiaomi,Android 10,5000,Li-Po,6,194,64.0,False,110.0
+961,K9 Pro,Oppo,Android 11,4500,Li-Po,8,180,128.0,True,350.0
+962,Civi,Xiaomi,Android 11,4500,Li-Po,8,166,128.0,True,350.0
+963,F19s,Oppo,Android 11,5000,Li-Po,6,175,128.0,False,560.0
+964,Redmi 9A Sport,Xiaomi,Android 10,5000,Li-Po,3,194,32.0,False,89.988
+965,Redmi 9i Sport,Xiaomi,Android 10,5000,Li-Po,4,194,64.0,False,94.788
+966,Galaxy F42 5G,Samsung,Android 11,5000,Li-Po,8,203,128.0,False,240.0
+967,Poco C31,Xiaomi,Android 10,5000,Li-Po,4,194,32.0,False,80.16
+968,A55,Oppo,Android 11,5000,Li-Po,6,193,64.0,False,399.28
+969,Redmi Note 10 Lite,Xiaomi,Android 10,5020,Li-Po,6,209,64.0,True,143.988
+970,vivo Y33,Vivo,Android 11,5000,Li-Po,4,191,128.0,False,560.0
+971,vivo Y20t,Vivo,Android 11,5000,Li-Po,6,192,64.0,False,520.0
+972,Black Shark 4S Pro,Xiaomi,Android 11,4500,Li-Po,8,220,256.0,True,650.0
+973,9RT 5G,OnePlus,Android 11,4500,Li-Po,8,198,128.0,True,789.0
+974,Black Shark 4S,Xiaomi,Android 11,4500,Li-Po,8,210,128.0,True,360.0
+975,vivo Y3s (2021),Vivo,Android 11,5000,Li-Po,2,190,32.0,False,720.0
+976,vivo S10e,Vivo,Android 11,4000,Li-Po,8,175,128.0,True,1040.0
+977,Pixel 6,Google,Android 12,4614,Li-Ion,8,207,128.0,True,339.96
+978,GT Neo2T,Realme,Android 11,4500,Li-Po,8,186,128.0,True,260.0
+979,Q3s,Realme,Android 11,5000,Li-Po,8,199,128.0,True,200.0
+980,Pixel 6 Pro,Google,Android 12,5003,Li-Ion,12,210,128.0,True,336.0
+981,vivo T1,Vivo,Android 11,5000,Li-Po,8,193,128.0,True,250.0
+982,vivo iQOO Z5x,Vivo,Android 11,5000,Li-Po,8,189,128.0,True,320.0
+983,vivo T1x,Vivo,Android 11,5000,Li-Po,8,189,128.0,True,180.0
+984,K9s,Oppo,Android 11,5000,Li-Po,8,199,128.0,True,360.0
+985,vivo Y71t,Vivo,Android 11,4000,Li-Po,8,166,128.0,False,110.0
+986,50 Lite,Honor,Android 11,4300,Li-Po,8,192,128.0,False,285.0
+987,A56 5G,Oppo,Android 11,5000,Li-Po,6,189,128.0,False,230.0
+988,Play5 Youth,Honor,Android 11,4300,Li-Po,8,192,128.0,True,240.0
+989,Xperia Pro-I,Sony,Android 11,4500,Li-Po,12,211,512.0,True,998.0
+990,A54s,Oppo,Android 11,5000,Li-Po,8,190,128.0,False,469.0
+991,Redmi Note 11 Pro+ 5G,Xiaomi,Android 11,4500,Li-Po,8,204,128.0,True,259.99
+992,Redmi Note 11 (China),Xiaomi,Android 11,5000,Li-Po,8,195,128.0,False,140.0
+993,Redmi Note 11 Pro (China),Xiaomi,Android 11,5160,Li-Po,8,207,128.0,True,220.0
+994,X30i,Honor,Android 11,4000,Li-Po,8,175,128.0,False,190.0
+995,X30 Max,Honor,Android 11,5000,Li-Po,8,228,128.0,True,320.0
+996,A16K,Oppo,Android 11,4230,Li-Po,8,175,32.0,False,220.0
+997,vivo V23e,Vivo,Android 11,4050,Li-Po,8,172,128.0,True,240.0
+998,vivo Y15s,Vivo,Android 11,5000,Li-Po,4,179,32.0,False,300.0
+999,Poco M4 Pro 5G,Xiaomi,Android 11,5000,Li-Po,8,195,64.0,False,200.43
+1000,vivo Y76s,Vivo,Android 11,4100,Li-Po,8,175,128.0,False,230.0
+1001,Q3t,Realme,Android 11,5000,Li-Po,8,187,256.0,True,290.0
+1002,Galaxy A03 Core,Samsung,Android 11,5000,Li-Ion,2,211,32.0,False,98.78
+1003,vivo Y15a,Vivo,Android 11,5000,Li-Po,4,179,64.0,False,240.0
+1004,vivo Y50t,Vivo,Android 10,4500,Li-Po,8,190,128.0,True,120.0
+1005,A95,Oppo,Android 11,5000,Li-Po,8,175,128.0,False,192.82
+1006,vivo Y74s,Vivo,Android 11,4100,Li-Po,8,175,256.0,False,220.0
+1007,vivo V23e 5G,Vivo,Android 11,4050,Li-Po,8,172,128.0,True,140.0
+1008,vivo Y76 5G,Vivo,Android 11,4100,Li-Po,8,175,128.0,False,320.0
+1009,Redmi Note 11 4G,Xiaomi,Android 11,5000,Li-Po,6,181,128.0,False,164.55
+1010,Reno7 SE 5G,Oppo,Android 11,4500,Li-Po,8,171,128.0,True,499.0
+1011,Reno7 Pro 5G,Oppo,Android 11,4500,Li-Po,8,180,256.0,True,310.0
+1012,Reno7 5G (China),Oppo,Android 11,4500,Li-Po,8,185,128.0,True,230.0
+1013,Galaxy A03,Samsung,Android 11,5000,Li-Po,4,196,32.0,False,155.0
+1014,Redmi Note 11T 5G,Xiaomi,Android 11,5000,Li-Po,8,195,64.0,False,191.988
+1015,60,Honor,Android 11,4800,Li-Ion,8,179,128.0,True,500.0
+1016,60 Pro,Honor,Android 11,4800,Li-Po,8,192,256.0,True,390.0
+1017,Galaxy A13 5G,Samsung,Android 11,5000,Li-Po,6,195,64.0,False,163.0
+1018,vivo Y55s (2021),Vivo,Android 11,6000,Li-Po,8,199,128.0,False,190.0
+1019,Find N,Oppo,Android 11,4500,Li-Po,8,275,256.0,True,380.0
+1020,Play 30 Plus,Honor,Android 11,5000,Li-Po,8,198,128.0,False,150.0
+1021,X30,Honor,Android 11,4800,Li-Po,6,189,128.0,False,210.0
+1022,vivo Y32,Vivo,Android 11,5000,Li-Po,8,182,64.0,False,330.0
+1023,vivo iQOO Neo5 SE,Vivo,Android 11,4500,Li-Po,8,189,128.0,True,209.0
+1024,vivo iQOO Neo5 S,Vivo,Android 11,4500,Li-Po,8,196,128.0,True,350.0
+1025,vivo S12,Vivo,Android 11,4200,Li-Po,8,179,128.0,True,210.0
+1026,vivo S12 Pro,Vivo,Android 11,4300,Li-Po,8,171,128.0,True,140.0
+1027,K9x,Oppo,Android 11,5000,Li-Po,8,194,128.0,False,299.0
+1028,vivo iQOO U5,Vivo,Android 12,5000,Li-Po,8,185,128.0,False,300.0
+1029,A11s,Oppo,Android 10,5000,Li-Po,8,186,64.0,False,1070.0
+1030,12 Pro,Xiaomi,Android 12,4600,Li-Po,8,204,128.0,True,620.96
+1031,12,Xiaomi,Android 12,4500,Li-Po,8,179,128.0,True,399.99
+1032,12X,Xiaomi,Android 11,4500,Li-Po,8,176,128.0,True,429.89
+1033,vivo Y21t,Vivo,Android 11,5000,Li-Po,6,182,128.0,False,380.0
+1034,vivo Y21t (India),Vivo,Android 11,5000,Li-Po,4,182,128.0,False,180.0
+1035,GT2,Realme,Android 12,5000,Li-Po,8,194,128.0,True,699.0
+1036,Galaxy S21 FE 5G,Samsung,Android 12,4500,Li-Ion,8,177,128.0,True,475.0
+1037,GT2 Pro,Realme,Android 12,5000,Li-Po,8,189,128.0,True,480.0
+1038,vivo V23 Pro,Vivo,Android 12,4300,Li-Po,8,171,128.0,True,183.48
+1039,vivo iQOO 9 Pro,Vivo,Android 12,4700,Li-Po,8,204,256.0,True,260.0
+1040,vivo V23 5G,Vivo,Android 12,4200,Li-Po,8,179,128.0,True,150.0
+1041,vivo iQOO 9 (China),Vivo,Android 12,4700,Li-Po,8,206,128.0,True,230.0
+1042,11i HyperCharge 5G,Xiaomi,Android 11,4500,Li-Po,8,204,128.0,True,300.0
+1043,11i,Xiaomi,Android 11,5160,Li-Po,8,207,128.0,True,262.788
+1044,9i,Realme,Android 11,5000,Li-Po,6,190,64.0,False,144.99
+1045,Magic V,Honor,Android 12,4750,Li-Po,12,288,256.0,True,1400.0
+1046,A36,Oppo,Android 11,5000,Li-Po,8,185,128.0,False,190.0
+1047,vivo Y33t,Vivo,Android 11,5000,Li-Po,8,182,128.0,False,190.0
+1048,10 Pro,OnePlus,Android 12,5000,Li-Po,8,201,128.0,True,439.94
+1049,A96 (China),Oppo,Android 11,4500,Li-Po,8,171,128.0,False,140.0
+1050,vivo Y21e,Vivo,Android 11,5000,Li-Po,3,182,64.0,False,390.0
+1051,Reno6 Lite,Oppo,Android 11,5000,Li-Po,6,175,128.0,False,220.0
+1052,vivo Y55 5G,Vivo,Android 11,5000,Li-Po,6,187,128.0,False,424.15
+1053,vivo Y21a,Vivo,Android 11,5000,Li-Po,4,182,64.0,False,430.0
+1054,Redmi Note 11,Xiaomi,Android 11,5000,Li-Po,6,179,64.0,False,146.99
+1055,Redmi Note 11S,Xiaomi,Android 11,5000,Li-Po,8,179,64.0,False,184.9
+1056,Redmi Note 11 Pro,Xiaomi,Android 11,5000,Li-Po,8,202,64.0,False,222.64
+1057,Redmi Note 11 Pro 5G,Xiaomi,Android 11,5000,Li-Po,8,202,64.0,False,233.22
+1058,vivo Y75 5G,Vivo,Android 11,5000,Li-Po,8,187,128.0,False,393.42
+1059,Reno7 5G,Oppo,Android 11,4500,Li-Po,8,173,128.0,True,280.0
+1060,60 SE,Honor,Android 11,4300,Li-Ion,8,175,128.0,False,300.0
+1061,Galaxy S22 Ultra 5G,Samsung,Android 12,5000,Li-Ion,8,228,128.0,True,825.0
+1062,Galaxy S22 5G,Samsung,Android 12,3700,Li-Ion,8,167,128.0,True,564.98
+1063,vivo T1 5G,Vivo,Android 11,5000,Li-Po,8,187,128.0,False,250.0
+1064,Galaxy S22+ 5G,Samsung,Android 12,4500,Li-Ion,8,195,128.0,True,749.9
+1065,C35,Realme,Android 11,5000,Li-Po,6,189,64.0,False,153.5
+1066,K14 Plus,Lenovo,Android 11,5000,Li-Po,4,198,64.0,False,200.0
+1067,Redmi 10 2022,Xiaomi,Android 11,5000,Li-Po,6,181,64.0,False,128.89
+1068,9 Pro,Realme,Android 12,5000,Li-Po,8,195,128.0,False,237.28
+1069,9 Pro+,Realme,Android 12,4500,Li-Po,8,182,128.0,True,621.99
+1070,Redmi K50 Gaming,Xiaomi,Android 12,4700,Li-Po,8,210,128.0,True,460.0
+1071,A76,Oppo,Android 11,5000,Li-Po,6,189,128.0,False,380.0
+1072,Nord CE 2 5G,OnePlus,Android 11,4500,Li-Po,8,173,128.0,True,319.0
+1073,vivo iQOO 9 SE,Vivo,Android 12,4500,Li-Po,8,199,128.0,True,270.0
+1074,vivo iQOO 9,Vivo,Android 12,4350,Li-Po,8,200,128.0,True,180.0
+1075,Find X5,Oppo,Android 12,4800,Li-Po,8,196,128.0,True,174.99
+1076,Find X5 Pro,Oppo,Android 12,5000,Li-Po,8,218,256.0,True,299.0
+1077,Narzo 50,Realme,Android 11,5000,Li-Po,6,194,64.0,False,509.0
+1078,Find X5 Lite,Oppo,Android 11,4500,Li-Po,8,173,256.0,True,335.988
+1079,Magic4,Honor,Android 12,4800,Li-Po,8,199,128.0,True,900.0
+1080,Poco M4 Pro,Xiaomi,Android 11,5000,Li-Po,8,179,64.0,False,267.15
+1081,Poco X4 Pro 5G,Xiaomi,Android 11,5000,Li-Po,8,205,64.0,False,315.87
+1082,Magic4 Pro,Honor,Android 12,4600,Li-Po,8,209,256.0,True,955.0
+1083,Legion Y90,Lenovo,Android 12,5600,Li-Po,18,252,256.0,True,570.0
+1084,Legion Y700,Lenovo,Android 12,6550,Li-Po,8,375,128.0,False,360.0
+1085,vivo Y33s 5G,Vivo,Android 12,5000,Li-Po,8,185,128.0,False,630.0
+1086,Reno7 Z 5G,Oppo,Android 12,4500,Li-Po,8,173,128.0,False,464.78
+1087,Redmi Note 11E,Xiaomi,Android 11,5000,Li-Po,6,200,128.0,False,170.0
+1088,Redmi Note 11E Pro,Xiaomi,Android 11,5000,Li-Po,8,202,128.0,False,240.0
+1089,V25,Realme,Android 12,5000,Li-Po,12,195,256.0,False,290.0
+1090,Galaxy M23,Samsung,Android 12,5000,Li-Po,6,198,64.0,True,219.0
+1091,Galaxy M33,Samsung,Android 12,6000,Li-Ion,8,198,128.0,True,223.08
+1092,Galaxy A23,Samsung,Android 12,5000,Li-Po,8,195,64.0,False,210.0
+1093,Galaxy A13,Samsung,Android 12,5000,Li-Po,6,195,32.0,False,160.81
+1094,iPhone SE (2022),Apple,iOS 15.4,2018,Li-Ion,4,144,64.0,True,498.0
+1095,Galaxy F23,Samsung,Android 12,5000,Li-Po,6,198,128.0,True,227.88
+1096,nova 9 SE,Huawei,Android 11,4000,Li-Po,8,191,128.0,False,222.61
+1097,Redmi Note 11 Pro+ 5G (India),Xiaomi,Android 11,5000,Li-Po,8,202,64.0,False,250.0
+1098,vivo Y01,Vivo,Android 11,5000,Li-Po,3,178,32.0,False,400.0
+1099,9 5G Speed,Realme,Android 11,5000,Li-Po,8,199,128.0,True,240.0
+1100,9 5G (India),Realme,Android 11,5000,Li-Po,6,188,64.0,False,180.0
+1101,X8,Honor,Android 11,4000,Li-Po,6,177,128.0,False,162.12
+1102,A96,Oppo,Android 11,5000,Li-Po,8,191,128.0,False,350.0
+1103,vivo iQOO Z6,Vivo,Android 12,5000,Li-Po,8,185,128.0,False,510.0
+1104,Galaxy A33 5G,Samsung,Android 12,5000,Li-Po,8,186,128.0,True,243.71
+1105,Galaxy A73 5G,Samsung,Android 12,5000,Li-Po,8,181,128.0,True,399.5
+1106,Galaxy A53 5G,Samsung,Android 12,5000,Li-Po,8,189,128.0,True,309.4
+1107,Redmi K50 Pro,Xiaomi,Android 12,5000,Li-Po,8,201,128.0,True,410.0
+1108,Magic4 Ultimate,Honor,Android 12,4600,Li-Po,12,242,512.0,True,1150.0
+1109,Redmi K50,Xiaomi,Android 12,5500,Li-Po,8,201,128.0,True,475.0
+1110,Redmi K40S,Xiaomi,Android 12,4500,Li-Po,6,195,128.0,True,260.0
+1111,Redmi 10 (India),Xiaomi,Android 11,6000,Li-Po,6,203,64.0,False,116.64
+1112,Redmi 10C,Xiaomi,Android 11,5000,Li-Po,4,190,64.0,False,108.0
+1113,A16e,Oppo,Android 11,4230,Li-Po,4,175,32.0,False,699.99
+1114,GT Neo 3,Realme,Android 12,5000,Li-Po,6,188,128.0,True,839.95
+1115,Narzo 50A Prime,Realme,Android 11,5000,Li-Po,4,189,64.0,False,119.95
+1116,GT Neo 3 150W,Realme,Android 12,4500,Li-Po,8,188,256.0,True,519.95
+1117,K10,Oppo,Android 11,5000,Li-Po,8,189,128.0,False,120.0
+1118,Magic4 Lite,Honor,Android 11,4800,Li-Po,8,189,128.0,False,375.0
+1119,C31,Realme,Android 11,5000,Li-Po,4,197,32.0,False,109.99
+1120,vivo iQOO U5x,Vivo,Android 11,5000,Li-Po,8,179,128.0,False,180.0
+1121,Redmi 10A,Xiaomi,Android 11,5000,Li-Ion,6,194,32.0,False,85.58
+1122,Redmi Note 11S 5G,Xiaomi,Android 11,5000,Li-Po,8,195,64.0,False,194.99
+1123,Redmi 10 5G,Xiaomi,Android 12,5000,Li-Po,6,200,64.0,False,159.06
+1124,Reno7,Oppo,Android 12,4500,Li-Po,8,175,128.0,False,234.08
+1125,X9 5G,Honor,Android 11,4800,Li-Po,8,189,128.0,False,240.0
+1126,Black Shark 5,Xiaomi,Android 12,4650,Li-Po,8,218,128.0,True,600.0
+1127,Black Shark 5 RS,Xiaomi,Android 12,4500,Li-Po,8,220,256.0,True,470.0
+1128,X7,Honor,Android 11,5000,Li-Po,6,198,128.0,False,190.0
+1129,Black Shark 5 Pro,Xiaomi,Android 12,4650,Li-Po,8,220,128.0,True,720.0
+1130,X9,Honor,Android 11,4800,Li-Po,8,189,128.0,False,230.0
+1131,Galaxy S20 FE 2022,Samsung,Android 12,4500,Li-Ion,6,190,128.0,True,520.0
+1132,Play6T,Honor,Android 11,5000,Li-Po,8,198,128.0,False,180.0
+1133,vivo Y21G,Vivo,Android 11,5000,Li-Po,4,182,64.0,False,150.0
+1134,Play6T Pro,Honor,Android 11,4000,Li-Po,8,175,128.0,False,200.0
+1135,9,Realme,Android 12,5000,Li-Po,8,178,128.0,False,249.96
+1136,Galaxy M53,Samsung,Android 12,5000,Li-Ion,8,176,128.0,True,350.0
+1137,vivo X Fold,Vivo,Android 12,4600,Li-Po,12,311,256.0,True,190.0
+1138,vivo X Note,Vivo,Android 12,5000,Li-Po,8,216,256.0,True,140.0
+1139,F21 Pro,Oppo,Android 12,4500,Li-Po,8,175,128.0,False,180.0
+1140,F21 Pro 5G,Oppo,Android 12,4500,Li-Po,8,173,128.0,False,339.0
+1141,vivo iQOO Neo6 (China),Vivo,Android 12,4700,Li-Po,8,194,128.0,True,170.0
+1142,V23,Realme,Android 12,5000,Li-Po,8,190,256.0,False,240.0
+1143,Reno7 Lite,Oppo,Android 11,4500,Li-Po,8,173,128.0,False,280.0
+1144,A57,Oppo,Android 12,5000,Li-Po,8,186,128.0,False,330.0
+1145,A55s,Oppo,Android 11,5000,Li-Po,8,186,128.0,False,350.0
+1146,Q5i,Realme,Android 12,5000,Li-Po,6,187,128.0,False,180.0
+1147,Redmi 10 Power,Xiaomi,Android 11,6000,Li-Po,8,203,128.0,False,149.988
+1148,nova Y70 Plus,Huawei,EMUI 12,6000,Li-Po,4,199,64.0,False,235.0
+1149,nova 9 SE 5G,Huawei,Android 11,4000,Li-Po,8,191,128.0,False,370.0
+1150,Q5 Pro,Realme,Android 12,5000,Li-Po,8,194,128.0,True,330.0
+1151,Q5,Realme,Android 12,5000,Li-Po,8,195,128.0,False,200.0
+1152,Civi 1S,Xiaomi,Android 12,4500,Li-Po,8,166,128.0,True,330.0
+1153,Ace,OnePlus,Android 12,4500,Li-Po,8,186,128.0,True,360.0
+1154,K10 5G (China),Oppo,Android 12,5000,Li-Po,8,205,128.0,True,200.0
+1155,K10 Pro,Oppo,Android 12,5000,Li-Po,8,199,128.0,True,160.0
+1156,vivo S15e,Vivo,Android 11,4700,Li-Po,8,190,128.0,True,1300.0
+1157,vivo X80,Vivo,Android 12,4500,Li-Po,8,203,128.0,True,300.0
+1158,vivo X80 Pro,Vivo,Android 12,4700,Li-Po,8,215,256.0,True,150.0
+1159,vivo T1 (Snapdragon 778G),Vivo,Android 12,4700,Li-Po,8,180,128.0,False,400.0
+1160,Poco F4 GT,Xiaomi,Android 12,4700,Li-Po,8,210,128.0,True,399.9
+1161,vivo T1x 4G,Vivo,Android,5000,Li-Po,8,182,64.0,False,870.0
+1162,vivo iQOO Z6 44W,Vivo,Android 12,5000,Li-Po,8,182,128.0,False,300.0
+1163,vivo iQOO Z6 Pro,Vivo,Android 12,4700,Li-Po,6,180,128.0,True,850.0
+1164,Nord N20 5G,OnePlus,Android 11,4500,Li-Po,6,173,128.0,False,164.99
+1165,Mate Xs 2,Huawei,EMUI 12,4880,Li-Po,8,255,256.0,True,1995.99
+1166,10R 150W,OnePlus,Android 12,4500,Li-Po,12,186,256.0,True,340.0
+1167,10R,OnePlus,Android 12,5000,Li-Po,8,186,128.0,True,395.988
+1168,Nord CE 2 Lite 5G,OnePlus,Android 12,5000,Li-Po,8,195,128.0,False,229.0
+1169,Poco M4 5G (India),Xiaomi,Android 12,5000,Li-Po,6,200,64.0,False,140.16
+1170,vivo T1 (Snapdragon 680),Vivo,Android 12,5000,Li-Po,8,182,128.0,False,180.0
+1171,vivo T1 Pro,Vivo,Android 12,4700,Li-Po,8,180,128.0,False,250.0
+1172,vivo iQOO Neo6 SE,Vivo,Android 12,4700,Li-Po,8,190,128.0,True,300.0
+1173,Redmi 10 Prime 2022,Xiaomi,Android 11,6000,Li-Po,6,192,64.0,False,160.0
+1174,Play 30,Honor,Android 11,5000,Li-Po,8,194,128.0,False,150.0
+1175,Xperia 1 IV,Sony,Android 12,5000,Li-Po,12,185,256.0,True,889.99
+1176,Pixel 6a,Google,Android 12,4410,Li-Po,6,178,128.0,True,285.0
+1177,Xperia 10 IV,Sony,Android 12,5000,Li-Po,6,161,128.0,False,329.99
+1178,9 5G,Realme,Android 12,5000,Li-Po,4,191,64.0,False,199.99
+1179,Ace Racing,OnePlus,Android 12,5000,Li-Po,8,205,128.0,True,280.0
+1180,Narzo 50 5G,Realme,Android 12,5000,Li-Po,6,190,64.0,False,299.0
+1181,Narzo 50 Pro,Realme,Android 12,5000,Li-Po,8,181,128.0,False,233.988
+1182,vivo S15 Pro,Vivo,Android 12,4500,Li-Po,8,188,256.0,True,300.0
+1183,vivo S15,Vivo,Android 12,4500,Li-Po,8,197,128.0,True,190.0
+1184,Nord 2T,OnePlus,Android 12,4500,Li-Po,8,190,128.0,True,309.0
+1185,vivo Y75,Vivo,Android 12,4050,Li-Po,8,172,128.0,False,290.0
+1186,Reno8 Pro+,Oppo,Android 12,4500,Li-Po,8,183,256.0,True,350.0
+1187,Reno8 Pro (China),Oppo,Android 12,4500,Li-Po,8,188,128.0,True,360.0
+1188,Reno8 (China),Oppo,Android 12,4500,Li-Po,8,179,128.0,True,290.0
+1189,vivo Y72t,Vivo,Android 11,6000,Li-Po,8,199,128.0,False,380.0
+1190,Redmi Note 11SE,Xiaomi,Android 11,5000,Li-Po,8,190,128.0,False,150.0
+1191,Redmi Note 11T Pro,Xiaomi,Android 12,5080,Li-Po,6,200,128.0,True,250.0
+1192,Redmi Note 11T Pro+,Xiaomi,Android 12,4400,Li-Po,8,198,128.0,True,300.0
+1193,A57 4G,Oppo,Android 12,5000,Li-Po,4,187,64.0,False,420.0
+1194,Galaxy M13,Samsung,Android 12,5000,Li-Po,4,192,64.0,False,144.8
+1195,70 Pro,Honor,Android 12,4500,Li-Po,8,192,256.0,True,520.0
+1196,vivo T2x,Vivo,Android 12,6000,Li-Po,8,202,128.0,True,480.0
+1197,70 Pro+,Honor,Android 12,4500,Li-Po,8,192,256.0,True,600.0
+1198,70,Honor,Android 12,4800,Li-Po,8,178,128.0,True,529.0
+1199,vivo iQOO Neo 6,Vivo,Android 12,4700,Li-Po,8,190,128.0,True,231.6
+1200,K10 5G,Oppo,Android 12,5000,Li-Po,8,190,128.0,False,209.99
+1201,Ava,Oppo,Android 12,5000,Li-Po,6,190,64.0,False,520.0
+1202,Galaxy A13 (SM-A137),Samsung,Android 12,5000,Li-Po,4,195,32.0,False,188.0
+1203,Reno8 Lite,Oppo,Android 11,4500,Li-Po,8,173,128.0,False,169.99
+1204,Poco C40,Xiaomi,Android 11,6000,Li-Po,4,204,32.0,False,89.99
+1205,GT Neo 3T,Realme,Android 12,5000,Li-Po,8,194,128.0,True,514.5
+1206,V20,Realme,Android 12,5000,Li-Po,8,184,64.0,False,160.0
+1207,C30,Realme,Android 11,5000,Li-Po,4,182,32.0,False,87.48
+1208,Narzo 50i Prime,Realme,Android 11,5000,Li-Po,4,182,32.0,False,120.0
+1209,Galaxy F13,Samsung,Android 12,6000,Li-Po,4,207,64.0,False,119.988
+1210,Poco F4,Xiaomi,Android 12,4500,Li-Po,8,195,128.0,True,398.99
+1211,Poco X4 GT,Xiaomi,Android 12,5080,Li-Po,8,200,128.0,True,380.42
+1212,nova Y90,Huawei,EMUI 12,5000,Li-Po,8,195,128.0,False,219.0
+1213,Galaxy Xcover6 Pro,Samsung,Android 12,4050,Li-Po,6,235,128.0,True,425.5
+1214,vivo Y55,Vivo,Android 12,5000,Li-Po,8,182,128.0,False,559.99
+1215,vivo Y77,Vivo,Android 12,5000,Li-Po,8,194,128.0,False,200.0
+1216,12S Ultra,Xiaomi,Android 12,4860,Li-Po,8,225,256.0,True,749.0
+1217,12 Pro (Dimensity),Xiaomi,Android 12,5160,Li-Po,8,201,128.0,True,570.0
+1218,12S Pro,Xiaomi,Android 12,4600,Li-Po,8,203,128.0,True,670.0
+1219,12S,Xiaomi,Android 12,4500,Li-Po,8,179,128.0,True,570.0
+1220,vivo Y77 (China),Vivo,Android 12,4500,Li-Po,6,194,128.0,False,220.0
+1221,12 Lite,Xiaomi,Android 12,4300,Li-Po,8,173,128.0,True,307.72
+1222,A97,Oppo,Android 12,5000,Li-Po,12,188,256.0,False,270.0
+1223,GT2 Explorer Master,Realme,Android 12,5000,Li-Po,8,195,256.0,True,500.0
+1224,X40i,Honor,Android 12,4000,Li-Po,8,175,128.0,False,240.0
+1225,Galaxy M13 (India),Samsung,Android 12,6000,Li-Po,6,207,64.0,False,131.988
+1226,Galaxy M13 5G,Samsung,Android 12,5000,Li-Po,6,195,64.0,False,207.05
+1227,Reno8 Pro,Oppo,Android 12,4500,Li-Po,8,183,256.0,True,310.0
+1228,Reno8,Oppo,Android 12,4500,Li-Po,8,179,128.0,True,339.0
+1229,vivo iQOO 10 Pro,Vivo,Android 12,4700,Li-Po,8,215,256.0,True,190.0
+1230,vivo iQOO 10,Vivo,Android 12,4700,Li-Po,8,206,128.0,True,360.0
+1231,vivo T1x (India),Vivo,Android,5000,Li-Po,6,182,64.0,False,300.0
+1232,Redmi K50i,Xiaomi,Android 12,5080,Li-Po,8,200,128.0,True,320.0
+1233,vivo Y30 5G,Vivo,Android 12,5000,Li-Po,6,193,128.0,False,580.0
+1234,X8 5G,Honor,Android 11,5000,Li-Po,6,194,128.0,False,445.0
+1235,vivo Y02s,Vivo,Android 12,5000,Li-Po,3,182,32.0,False,150.0
+1236,vivo iQOO 9T,Vivo,Android 12,4700,Li-Po,8,206,128.0,True,870.0
+1237,A77 4G,Oppo,Android 12,5000,Li-Po,4,187,64.0,False,395.0
+1238,10T,OnePlus,Android 12,4800,Li-Po,8,204,128.0,True,329.99
+1239,Reno8 Z,Oppo,Android 12,4500,Li-Po,8,181,128.0,True,999.0
+1240,Nord N20 SE,OnePlus,Android 12,5000,Li-Po,4,187,64.0,False,119.0
+1241,Galaxy A23 5G,Samsung,Android 12,5000,Li-Po,8,197,64.0,False,210.0
+1242,Ace Pro,OnePlus,Android 12,4800,Li-Po,16,203,256.0,True,500.0
+1243,Galaxy Z Fold4,Samsung,Android 12L,4400,Li-Po,12,263,256.0,True,1179.0
+1244,Galaxy Z Flip4,Samsung,Android 12,3700,Li-Po,8,187,128.0,True,691.27
+1245,Mix Fold 2,Xiaomi,Android 12,4500,Li-Po,12,262,256.0,True,1300.0
+1246,Redmi K50 Ultra,Xiaomi,Android 12,5000,Li-Po,8,202,128.0,True,430.0
+1247,vivo Y77e,Vivo,Android 12,5000,Li-Po,8,194,128.0,False,230.0
+1248,vivo Y35,Vivo,Android 11,5000,Li-Po,8,188,64.0,False,600.0
+1249,Poco M4 5G,Xiaomi,Android 12,5000,Li-Po,6,200,64.0,False,179.0
+1250,vivo V25 Pro,Vivo,Android 12,4830,Li-Po,8,190,128.0,True,250.0
+1251,Reno8 4G,Oppo,Android 12,4500,Li-Po,8,182,256.0,False,200.0
+1252,vivo V25,Vivo,Android 12,4500,Li-Po,8,186,128.0,True,100.0
+1253,9i 5G,Realme,Android 12,5000,Li-Po,6,187,64.0,False,179.88
+1254,Legion Y70,Lenovo,Android 12,5100,Li-Po,8,209,128.0,True,440.0
+1255,vivo Y22s,Vivo,Android 12,5000,Li-Po,8,192,128.0,False,279.0
+1256,Redmi Note 11 SE (India),Xiaomi,Android 11,5000,Li-Po,8,178,64.0,True,155.88
+1257,Galaxy A04,Samsung,Android 12,5000,Li-Po,4,192,32.0,False,102.0
+1258,vivo iQOO Z6x,Vivo,Android 11,6000,Li-Po,8,204,128.0,False,251.28
+1259,vivo iQOO Z6 (China),Vivo,Android 12,4500,Li-Po,8,194,128.0,True,261.0
+1260,V23i,Realme,Android 12,5000,Li-Po,4,185,128.0,False,270.0
+1261,vivo V25e,Vivo,Android 12,4500,Li-Po,8,183,128.0,False,250.0
+1262,A57e,Oppo,Android 12,5000,Li-Po,4,187,64.0,False,330.0
+1263,Galaxy A04s,Samsung,Android 12,5000,Li-Po,4,195,32.0,False,118.16
+1264,A57s,Oppo,Android 12,5000,Li-Po,4,187,64.0,False,350.0
+1265,vivo Y16,Vivo,Android 12,5000,Li-Po,4,184,32.0,False,300.0
+1266,Xperia 5 IV,Sony,Android 12,5000,Li-Po,8,172,128.0,True,704.99
+1267,Poco M5,Xiaomi,Android 12,5000,Li-Po,6,201,64.0,False,144.0
+1268,Poco M5 (India),Xiaomi,Android 12,5000,Li-Po,6,201,64.0,False,103.8
+1269,Poco M5s,Xiaomi,Android 12,5000,Li-Po,8,178,64.0,True,159.9
+1270,vivo Y22,Vivo,Android 12,5000,Li-Po,6,190,64.0,False,180.0
+1271,C33,Realme,Android 12,5000,Li-Po,4,187,32.0,False,108.072
+1272,Redmi 11 Prime,Xiaomi,Android 12,5000,Li-Po,6,201,64.0,False,160.0
+1273,Redmi 11 Prime 5G,Xiaomi,Android 12,5000,Li-Po,6,200,64.0,False,167.988
+1274,Redmi A1,Xiaomi,Android 12,5000,Li-Po,3,192,32.0,False,78.89
+1275,iPhone 14 Pro Max,Apple,iOS 16,4323,Li-Ion,6,240,128.0,True,1213.33
+1276,vivo Y75s,Vivo,Android 11,5000,Li-Po,8,193,256.0,True,250.0
+1277,iPhone 14 Pro,Apple,iOS 16,3200,Li-Ion,6,206,128.0,True,1087.84
+1278,iPhone 14 Plus,Apple,iOS 16,4323,Li-Ion,6,203,128.0,True,933.0
+1279,iPhone 14,Apple,iOS 16,3279,Li-Ion,6,172,128.0,True,816.0
+1280,C30s,Realme,Android 12,5000,Li-Po,4,186,32.0,False,100.0
+1281,vivo iQOO Z6 Lite,Vivo,Android 12,5000,Li-Po,6,194,64.0,False,160.0
+1282,X40,Honor,Android 12,5100,Li-Po,6,172,128.0,False,210.0
+1283,K10x,Oppo,Android 12,5000,Li-Po,6,195,128.0,False,180.0
+1284,vivo Y52t,Vivo,Android 12,5000,Li-Po,8,198,128.0,False,270.0
+1285,X6,Honor,Android 12,5000,Li-Po,4,194,64.0,False,128.75
+1286,vivo X80 Lite,Vivo,Android 12,4500,Li-Po,8,186,256.0,True,131.988
+1287,Redmi A1+,Xiaomi,Android 12,5000,Li-Po,3,192,32.0,False,90.85
+1288,vivo X Fold+,Vivo,Android 12,4730,Li-Po,12,311,256.0,True,180.0
+1289,A17,Oppo,Android 12,5000,Li-Po,4,189,64.0,False,210.0
+1290,Civi 2,Xiaomi,Android 12,4500,Li-Po,8,171,128.0,True,350.0
+1291,vivo Y73t,Vivo,Android 11,6000,Li-Po,8,201,128.0,False,200.0
+1292,Redmi Note 11R,Xiaomi,Android 12,5000,Li-Po,8,201,128.0,False,160.0
+1293,12T,Xiaomi,Android 12,5000,Li-Po,8,202,128.0,True,439.99
+1294,12T Pro,Xiaomi,Android 12,5000,Li-Po,8,205,128.0,True,648.0
+1295,nova 10 SE,Huawei,EMUI 12,4500,Li-Po,8,184,128.0,False,311.87
+1296,A77s,Oppo,Android 12,5000,Li-Po,8,187,128.0,False,149.76
+1297,Pixel 7,Google,Android 13,4355,Li-Ion,8,197,128.0,True,463.0
+1298,Pixel 7 Pro,Google,Android 13,5000,Li-Ion,8,212,128.0,True,670.0
+1299,Play6C,Honor,Android 11,5000,Li-Po,8,194,128.0,False,150.0
+1300,X40 GT,Honor,Android 12,4800,Li-Po,8,199,256.0,True,300.0
+1301,A17k,Oppo,Android 12,5000,Li-Po,3,189,64.0,False,220.0
+1302,vivo iQOO Neo7 (China),Vivo,Android 13,5000,Li-Po,8,197,128.0,True,1450.0
+1303,Play 40 Plus,Honor,Android 12,6000,Li-Po,8,196,128.0,False,170.0
+1304,Galaxy A04e,Samsung,Android 12,5000,Li-Po,4,188,32.0,False,94.0
+1305,Nord N300,OnePlus,Android 12,5000,Li-Po,4,190,64.0,False,230.0
+1306,Redmi Note 12 Discovery,Xiaomi,Android 12,4300,Li-Po,8,207,256.0,True,380.0
+1307,Redmi Note 12 Pro,Xiaomi,Android 12,5000,Li-Po,6,187,128.0,True,204.24
+1308,Redmi Note 12 Pro+,Xiaomi,Android 12,5000,Li-Po,8,208,256.0,True,343.62
+1309,Redmi Note 12 (China),Xiaomi,Android 12,5000,Li-Po,8,188,128.0,False,190.0
+1310,Redmi Note 12,Xiaomi,Android 12,5000,Li-Po,8,188,128.0,False,199.0
+1311,nova Y61,Huawei,EMUI 12,5000,Li-Po,6,188,64.0,False,189.3
+1312,A58,Oppo,Android 12,5000,Li-Po,8,188,128.0,False,130.0
+1313,10,Realme,Android 12,5000,Li-Po,8,178,64.0,False,139.8
+1314,10 5G,Realme,Android 12,5000,Li-Po,8,191,128.0,False,180.0
+1315,A1 Pro,Oppo,Android 13,4800,Li-Po,8,171,128.0,False,230.0
+1316,10 Pro+,Realme,Android 13,5000,Li-Po,6,173,128.0,True,205.5
+1317,vivo V21s,Vivo,Android 12,4000,Li-Po,8,176,128.0,True,200.0
+1318,10 Pro,Realme,Android 13,5000,Li-Po,8,190,128.0,False,187.0
+1319,vivo X90,Vivo,Android 13,4810,Li-Po,8,196,128.0,True,380.0
+1320,vivo X90 Pro+,Vivo,Android 13,4700,Li-Po,12,221,256.0,True,630.0
+1321,vivo X90 Pro,Vivo,Android 13,4870,Li-Po,8,214,256.0,True,360.0
+1322,Magic Vs,Honor,Android 13,5000,Li-Po,8,261,256.0,True,1379.99
+1323,Magic Vs Ultimate,Honor,Android 12,5000,Li-Po,16,265,512.0,True,1500.0
+1324,80 SE,Honor,Android 12,4600,Li-Po,8,175,256.0,True,370.0
+1325,80 Pro,Honor,Android 12,4800,Li-Po,8,188,256.0,True,419.99
+1326,80,Honor,Android 12,4800,Li-Po,8,180,256.0,True,370.0
+1327,Reno9,Oppo,Android 13,4500,Li-Po,8,174,256.0,True,260.0
+1328,Reno9 Pro,Oppo,Android 13,4500,Li-Po,16,174,256.0,True,600.0
+1329,Reno9 Pro+,Oppo,Android 13,4700,Li-Po,16,192,256.0,True,470.0
+1330,vivo Y02,Vivo,Android 12,5000,Li-Po,3,186,32.0,False,1019.0
+1331,vivo iQOO 11,Vivo,Android 13,5000,Li-Po,8,205,128.0,True,90.0
+1332,vivo iQOO Neo7 SE,Vivo,Android 13,5000,Li-Po,8,193,128.0,True,1030.0
+1333,vivo iQOO 11 Pro,Vivo,Android 13,4700,Li-Po,8,210,256.0,True,300.0
+1334,vivo Y35 5G,Vivo,Android 13,5000,Li-Po,8,186,128.0,False,659.988
+1335,Galaxy M04,Samsung,Android 12,5000,Li-Po,4,188,64.0,False,101.988
+1336,13,Xiaomi,Android 13,4500,Li-Po,8,185,128.0,True,929.0
+1337,13 Pro,Xiaomi,Android 13,4820,Li-Po,8,210,128.0,True,1191.87
+1338,A58x,Oppo,Android 12,5000,Li-Po,8,186,128.0,False,740.0
+1339,Find N2 Flip,Oppo,Android 13,4300,Li-Po,8,191,256.0,True,1100.0
+1340,Find N2,Oppo,Android 13,4520,Li-Po,16,233,256.0,True,180.0
+1341,10s,Realme,Android 12,5000,Li-Po,8,191,128.0,False,150.0
+1342,vivo S16,Vivo,Android 13,4600,Li-Po,8,182,128.0,True,160.0
+1343,vivo S16 Pro,Vivo,Android 13,4600,Li-Po,8,182,256.0,True,280.0
+1344,vivo S16e,Vivo,Android 11,4600,Li-Po,8,187,128.0,True,800.0
+1345,80 GT,Honor,Android 12,4800,Li-Po,16,187,256.0,True,450.0
+1346,Redmi Note 12 Pro Speed,Xiaomi,Android 13,5000,Li-Po,6,181,128.0,True,230.0
+1347,Redmi K60 Pro,Xiaomi,Android 13,5000,Li-Po,8,201,128.0,True,460.0
+1348,Redmi K60E,Xiaomi,Android 12,5500,Li-Po,8,202,128.0,True,300.0
+1349,Redmi K60,Xiaomi,Android 13,5500,Li-Po,8,199,128.0,True,350.0
+1350,vivo iQOO Neo7 Racing,Vivo,Android 13,5000,Li-Po,8,197,256.0,True,340.0
+1351,Redmi 12C,Xiaomi,Android 12,5000,Li-Po,6,192,32.0,False,94.75
+1352,Poco C50,Xiaomi,Android 12,5000,Li-Po,3,192,32.0,False,80.0
+1353,11,OnePlus,Android 13,5000,Li-Po,8,205,128.0,True,619.0
+1354,Galaxy A14 5G,Samsung,Android 13,5000,Li-Po,8,202,64.0,False,179.0
+1355,Galaxy F04,Samsung,Android 12,5000,Li-Po,4,188,64.0,False,97.08
+1356,X9a,Honor,Android 12,5100,Li-Po,8,175,128.0,False,260.0
+1357,X7a,Honor,Android 12,6000,Li-Po,6,196,128.0,False,309.0
+1358,A56s,Oppo,Android 12,5000,Li-Po,8,186,128.0,False,1079.99
+1359,80 Pro Flat,Honor,Android 12,4800,Li-Po,12,186,256.0,True,450.0
+1360,A78,Oppo,Android 12,5000,Li-Po,8,188,128.0,False,150.0
+1361,vivo Y55s (2023),Vivo,Android 12,5000,Li-Po,6,187,128.0,False,400.0
+1362,X5,Honor,Android 12,5000,Li-Po,2,193,32.0,False,90.0
+1363,Galaxy S23 Ultra,Samsung,Android 13,5000,Li-Ion,8,234,256.0,True,1126.73
+1364,Galaxy S23+,Samsung,Android 13,4700,Li-Ion,8,196,256.0,True,1039.0
+1365,Galaxy S23,Samsung,Android 13,3900,Li-Ion,8,168,128.0,True,706.5
+1366,Reno8 T 5G,Oppo,Android 13,4800,Li-Po,8,171,128.0,False,230.0
+1367,Reno8 T,Oppo,Android 13,5000,Li-Po,8,180,128.0,False,340.0
+1368,Poco X5,Xiaomi,Android 12,5000,Li-Po,8,189,128.0,False,206.0
+1369,Poco X5 Pro,Xiaomi,Android 12,5000,Li-Po,8,181,128.0,True,259.0
+1370,Ace 2,OnePlus,Android 13,5000,Li-Po,16,204,256.0,True,390.0
+1371,11R,OnePlus,Android 13,5000,Li-Po,8,204,128.0,True,479.988
+1372,X8a,Honor,Android 12,4500,Li-Po,8,179,128.0,False,189.0
+1373,GT Neo 5 240W,Realme,Android 13,4600,Li-Po,16,199,256.0,True,440.0
+1374,GT Neo 5,Realme,Android 13,5000,Li-Po,8,199,256.0,True,340.0
+1375,V30,Realme,Android 12,5000,Li-Po,8,186,128.0,False,150.0
+1376,Magic5 Lite,Honor,Android 12,5100,Li-Po,8,175,128.0,False,309.0
+1377,vivo Y100,Vivo,Android 13,4500,Li-Po,8,181,128.0,True,250.0
+1378,vivo iQOO Neo 7,Vivo,Android 13,5000,Li-Po,8,193,128.0,True,380.0
+1379,vivo Y56,Vivo,Android 13,5000,Li-Po,8,184,128.0,False,335.988
+1380,Poco C55,Xiaomi,Android 12,5000,Li-Po,6,192,64.0,False,94.2
+1381,13 Lite,Xiaomi,Android 12,4500,Li-Po,8,171,128.0,True,394.49
+1382,Magic5,Honor,Android 13,5100,Li-Po,12,191,256.0,True,900.0
+1383,Magic5 Pro,Honor,Android 13,5100,Li-Po,8,219,256.0,True,1027.0
+1384,GT3,Realme,Android 13,4600,Li-Po,8,199,128.0,True,630.0
+1385,Galaxy A14,Samsung,Android 13,5000,Li-Po,6,201,64.0,False,130.27
+1386,vivo V27e,Vivo,Android 13,4600,Li-Po,8,185,128.0,True,287.988
+1387,vivo V27,Vivo,Android 13,4600,Li-Po,8,180,128.0,True,219.852
+1388,vivo V27 Pro,Vivo,Android 13,4600,Li-Po,8,182,128.0,True,270.0
+1389,Redmi Note 12 Pro 4G,Xiaomi,Android 11,5000,Li-Po,8,201,128.0,True,207.6
+1390,Redmi Note 12S,Xiaomi,Android 13,5000,Li-Po,8,176,64.0,False,186.54
+1391,Magic5 Ultimate,Honor,Android 13,5450,Li-Po,16,217,512.0,True,900.0
+1392,Ace 2V,OnePlus,Android 13,5000,Li-Po,16,191,256.0,True,310.0
+1393,C55,Realme,Android 13,5000,Li-Po,8,189,64.0,False,207.99
+1394,Galaxy M14,Samsung,Android 13,6000,Li-Po,6,206,64.0,False,179.88
+1395,vivo iQOO Z7i,Vivo,Android 13,5000,Li-Po,8,186,128.0,False,380.0
+1396,C33 2023,Realme,Android 12,5000,Li-Po,4,187,64.0,False,131.988
+1397,Galaxy A34,Samsung,Android 13,5000,Li-Po,8,199,128.0,True,280.99
+1398,Galaxy A54,Samsung,Android 13,5000,Li-Po,8,202,128.0,True,359.0
+1399,vivo iQOO Z7,Vivo,Android 13,4500,Li-Po,8,173,128.0,True,180.0
+1400,vivo iQOO Z7x,Vivo,Android 13,6000,Li-Po,8,205,128.0,False,440.0
+1401,70 Lite,Honor,Android 12,5000,Li-Po,4,194,128.0,False,210.79
+1402,vivo iQOO Z7 (China),Vivo,Android 13,5000,Li-Po,8,201,128.0,True,130.0
+1403,10T,Realme,Android 12,5000,Li-Po,8,187,128.0,False,200.0
+1404,Find X6,Oppo,Android 13,4800,Li-Po,16,207,256.0,True,299.99
+1405,Find X6 Pro,Oppo,Android 13,5000,Li-Po,16,216,256.0,True,759.0
+1406,Galaxy M54,Samsung,Android 13,6000,Li-Po,8,199,128.0,True,190.0
+1407,Redmi Note 12 4G,Xiaomi,Android 13,5000,Li-Po,8,183,64.0,False,160.0
+1408,Redmi A2,Xiaomi,Android 12 or 13,5000,Li-Po,4,192,32.0,False,71.37
+1409,Galaxy F14,Samsung,Android 13,6000,Li-Po,6,206,128.0,False,150.0
+1410,Redmi A2+,Xiaomi,Android 12 or 13,5000,Li-Po,4,192,32.0,False,95.99
+1411,Redmi Note 12 Turbo,Xiaomi,Android 13,5000,Li-Po,8,181,256.0,True,270.0
+1412,Play7T,Honor,Android 12,6000,Li-Po,8,196,128.0,False,150.0
+1413,Play7T Pro,Honor,Android 12,4000,Li-Po,8,175,128.0,False,200.0
+1414,A1x,Oppo,Android 12,5000,Li-Po,8,186,128.0,False,820.0
+1415,vivo Y11 (2023),Vivo,Android 12,5000,Li-Po,6,186,128.0,False,200.0
+1416,vivo Y02A,Vivo,Android 12,5000,Li-Po,3,186,32.0,False,220.0
+1417,GT Neo5 SE,Realme,Android 13,5500,Li-Po,8,193,256.0,True,270.0
+1418,A1,Oppo,Android 13,5000,Li-Po,8,191,256.0,False,180.0
+1419,Nord CE 3 Lite,OnePlus,Android 13,5000,Li-Po,8,195,128.0,False,229.0
+1420,Poco C51,Xiaomi,Android 13,5000,Li-Po,4,192,64.0,False,82.656
+1421,vivo T2 (India),Vivo,Android 13,4500,Li-Po,8,172,128.0,False,120.0
+1422,vivo T2x (India),Vivo,Android 13,5000,Li-Po,8,184,128.0,False,110.0
+1423,Narzo N55,Realme,Android 13,5000,Li-Po,8,189,64.0,False,131.988
+1424,13 Ultra,Xiaomi,Android 13,5000,Li-Po,16,227,256.0,True,899.0
+1425,Galaxy A24 4G,Samsung,Android 13,5000,Li-Po,8,195,128.0,False,176.0
+1426,vivo X Fold2,Vivo,Android 13,4800,Li-Po,12,279,256.0,True,227.988
+1427,vivo X Flip,Vivo,Android 13,4400,Li-Po,12,198,256.0,True,167.688
+1428,vivo Y78+,Vivo,Android 13,5000,Li-Po,8,177,128.0,False,800.0
+1429,nova 11i,Huawei,EMUI 13,5000,Li-Po,8,193,128.0,False,279.0
+1430,Poco F5 Pro,Xiaomi,Android 13,5160,Li-Po,8,204,256.0,True,529.9
+1431,A98,Oppo,Android 13,5000,Li-Po,8,192,256.0,False,270.0
+1432,nova Y71,Huawei,EMUI 12,6000,Li-Po,8,199,128.0,False,190.0
+1433,Poco F5,Xiaomi,Android 13,5000,Li-Po,8,181,256.0,True,400.99
+1434,Pixel 7a,Google,Android 13,4385,Li-Po,8,193,128.0,True,394.0
+1435,Pixel Fold,Google,Android 13,4821,Li-Po,12,283,256.0,True,1750.0
+1436,11,Realme,Android 13,5000,Li-Po,8,182,128.0,False,240.0
+1437,vivo Y78 (China),Vivo,Android 13,5000,Li-Po,8,190,128.0,False,1330.0
+1438,11 Pro+,Realme,Android 13,5000,Li-Po,8,183,256.0,True,486.3
+1439,11 Pro,Realme,Android 13,5000,Li-Po,8,183,128.0,True,329.9
+1440,Xperia 1 V,Sony,Android 13,5000,Li-Po,12,187,256.0,True,1079.0
+1441,Xperia 10 V,Sony,Android 13,5000,Li-Po,8,159,128.0,False,378.0
+1442,F23,Oppo,Android 13,5000,Li-Po,8,192,256.0,False,290.0
+1443,Narzo N53,Realme,Android 13,5000,Li-Po,6,182,64.0,False,100.0
+1444,vivo iQOO Z7s,Vivo,Android 13,4500,Li-Po,8,172,128.0,False,210.0
+1445,vivo iQOO Neo8 Pro,Vivo,Android 13,5000,Li-Po,16,192,256.0,True,220.0
+1446,vivo iQOO Neo8,Vivo,Android 13,5000,Li-Po,16,192,256.0,True,180.0
+1447,nova Y91,Huawei,EMUI 13,7000,Li-Po,8,214,128.0,False,280.0
+1448,vivo S17e,Vivo,Android 13,4600,Li-Po,8,178,128.0,True,330.0
+1449,Reno10 Pro (China),Oppo,Android 13,4600,Li-Po,16,186,256.0,True,330.0
+1450,Reno10 Pro+,Oppo,Android 13,4700,Li-Po,16,194,256.0,True,520.0
+1451,Reno10 (China),Oppo,Android 13,4600,Li-Po,8,180,256.0,True,270.0
+1452,Civi 3,Xiaomi,Android 13,4500,Li-Po,16,174,256.0,True,330.0
+1453,K11x,Oppo,Android 13,5000,Li-Po,8,195,128.0,False,899.0
+1454,vivo Y36,Vivo,Android 13,5000,Li-Po,8,202,128.0,False,360.0
+1455,vivo Y36 5G,Vivo,Android 13,5000,Li-Po,8,190,256.0,False,200.0
+1456,90,Honor,Android 13,5000,Li-Po,8,183,256.0,True,392.79
+1457,90 Pro,Honor,Android 13,5000,Li-Po,16,192,256.0,True,440.0
+1458,Redmi Note 12T Pro,Xiaomi,Android 13,5080,Li-Po,8,200,128.0,True,340.0
+1459,vivo Y78,Vivo,Android 13,5000,Li-Po,8,177,256.0,False,430.0
+1460,vivo Y35+,Vivo,Android 13,5000,Li-Po,8,190,128.0,False,280.0
+1461,C53,Realme,Android 13,5000,Li-Po,6,182,128.0,False,179.9
+1462,vivo S17,Vivo,Android 13,4600,Li-Po,8,186,256.0,True,400.0
+1463,vivo S17 Pro,Vivo,Android 13,4600,Li-Po,8,188,256.0,True,330.0
+1464,vivo S17t,Vivo,Android 13,4600,Li-Po,12,186,512.0,True,240.0
+1465,vivo V29 Lite,Vivo,Android 13,5000,Li-Po,8,177,128.0,False,410.0
+1466,Galaxy F54,Samsung,Android 13,6000,Li-Po,8,199,256.0,True,380.28
+1467,Nord N30,OnePlus,Android 13,5000,Li-Po,8,195,128.0,False,299.99
+1468,Redmi 12,Xiaomi,Android 13,5000,Li-Po,8,198,128.0,False,134.0
+1469,90 Lite,Honor,Android 13,4500,Li-Po,8,179,256.0,False,199.0
+1470,vivo Y36 (India),Vivo,Android 13,5000,Li-Po,8,202,128.0,False,220.0
+1471,Redmi Note 12R Pro,Xiaomi,Android,5000,Li-Po,12,188,256.0,False,220.0
+1472,vivo X90s,Vivo,Android 13,4810,Li-Po,8,197,256.0,True,191.988
+1473,Redmi Note 12R,Xiaomi,Android 13,5000,Li-Po,8,199,128.0,False,150.0
+1474,Galaxy M34 5G,Samsung,Android 13,6000,Li-Po,8,208,128.0,True,227.988
+1475,vivo iQOO 11S,Vivo,Android 13,4700,Li-Po,16,207,256.0,True,419.988
+1476,vivo iQOO Neo 7 Pro,Vivo,Android 13,5000,Li-Po,8,197,128.0,True,510.0
+1477,Play 40,Honor,Android 13,5200,Li-Po,8,188,128.0,False,180.0
+1478,X50i,Honor,Android 13,4500,Li-Po,8,179,256.0,False,180.0
+1479,Nord 3,OnePlus,Android 13,5000,Li-Po,8,193,128.0,True,429.0
+1480,Nord CE3,OnePlus,Android 13,5000,Li-Po,8,184,128.0,True,323.988
+1481,X50,Honor,Android 13,5800,Li-Po,8,185,128.0,True,180.0
+1482,Narzo 60,Realme,Android 13,5000,Li-Po,8,182,128.0,False,215.988
+1483,Narzo 60 Pro,Realme,Android 13,5000,Li-Po,8,185,128.0,True,287.988
+1484,Reno10 Pro,Oppo,Android 13,4600,Li-Po,12,185,256.0,True,479.0
+1485,Reno10,Oppo,Android 13,5000,Li-Po,8,185,128.0,True,200.0
+1486,A78 4G,Oppo,Android 13,5000,Li-Po,8,180,128.0,False,250.0
+1487,vivo Y02t,Vivo,Android 13,5000,Li-Po,4,186,64.0,False,500.0
+1488,Magic V2,Honor,Android 13,5000,Li-Po,16,231,256.0,True,1130.0
+1489,C53 (India),Realme,Android 13,5000,Li-Po,6,186,64.0,False,110.0
+1490,vivo Y27,Vivo,Android 13,5000,Li-Po,6,190,128.0,False,140.0
+1491,Legion Y700 (2023),Lenovo,Android 13,6550,Li-Po,16,350,256.0,False,300.0
+1492,C51,Realme,Android 13,5000,Li-Po,4,186,64.0,False,150.0
+1493,K11,Oppo,Android 13,5000,Li-Po,8,184,256.0,True,759.0
+1494,A58 4G,Oppo,Android 13,5000,Li-Po,6,192,128.0,False,150.0
+1495,Galaxy Z Flip5,Samsung,Android 13,3700,Li-Po,8,187,256.0,True,899.0
+1496,Galaxy Z Fold5,Samsung,Android 13,4400,Li-Po,12,253,256.0,True,1498.2
+1497,X6a,Honor,Android 13,5200,Li-Po,4,188,128.0,False,150.0
+1498,11 5G,Realme,Android 13,5000,Li-Po,8,190,128.0,False,296.0
+1499,11 4G,Realme,Android 12,5000,Li-Po,8,178,128.0,False,280.0
+1500,Redmi 12 5G,Xiaomi,Android 13,5000,Li-Po,8,199,128.0,False,120.0
+1501,Poco M6 Pro,Xiaomi,Android 13,5000,Li-Po,6,199,64.0,False,135.48
+1502,Galaxy F34,Samsung,Android 13,6000,Li-Po,8,208,128.0,True,210.0
+1503,Mix Fold 3,Xiaomi,Android 13,4800,Li-Po,16,255,256.0,True,1150.0
+1504,Redmi K60 Ultra,Xiaomi,Android 13,5000,Li-Po,24,204,256.0,True,330.0
+1505,Ace 2 Pro,OnePlus,Android 13,5000,Li-Po,24,210,256.0,True,380.0
+1506,vivo Y77t,Vivo,Android 13,5000,Li-Po,8,190,256.0,False,170.0
+1507,11x,Realme,Android 13,5000,Li-Po,8,190,128.0,False,182.88
+1508,GT5,Realme,Android 13,5240,Li-Po,16,205,256.0,True,380.0
+1509,GT5 240W,Realme,Android 13,4600,Li-Po,24,205,1.0,True,470.0
+1510,vivo iQOO Z7 Pro,Vivo,Android 13,4600,Li-Po,8,175,128.0,True,287.988

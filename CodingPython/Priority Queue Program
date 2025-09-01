@@ -1,0 +1,40 @@
+class Queue:
+    def __init__ (self):
+        self.Q=[ ]
+        self.size=3
+    def enqueue(self,p,item):
+        if len(self.Q) >= self.size:
+            print("Q is full")
+        else:
+            self.Q.append((p,item))
+            print("Added elements of Q is :",self.Q)
+    def dequeue(self):
+        if len(self.Q)==0:
+            print("Q is empty")
+        else:
+            print("The removed elements are :",self.Q.pop(0)[1])
+    def display(self):
+        print("The Queue elements are :",self.Q)        
+            
+#Main Program 
+
+obj=Queue()
+obj.enqueue(1,'A')
+obj.enqueue(2,'D')
+obj.enqueue(3,'B')
+obj.enqueue(4,'C')
+obj.display()
+
+obj.dequeue()
+obj.display()
+obj.dequeue()
+obj.display()
+obj.dequeue()
+obj.display()
+obj.dequeue()
+
+
+
+           
+              
+                

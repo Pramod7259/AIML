@@ -1,0 +1,17 @@
+def selection(a):
+    n=len(a)
+    for i in range(n-1):
+        min=i
+        for j in range(i+1,n):
+            if (a[j]<a[min]):
+                a[min]
+                temp=a[j]
+                a[j]=a[min]
+                a[min]=temp
+                
+                
+a=[50,45,12,2,10] 
+print("The Array is :",a) 
+selection(a)  
+print("The sorting is :",a) 
+      

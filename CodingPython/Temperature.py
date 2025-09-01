@@ -1,0 +1,12 @@
+a=int(input("Enter temperature :-"))
+if a<10:
+    print("It is freeze ❄️")
+elif a<20:
+    print("It is very cold 🥶")    
+elif a<30:
+    print("It is Normal")   
+elif a<=40:
+    print("It is Hot 🥵")    
+else:
+    print("It is very Hot🔥")    
+    

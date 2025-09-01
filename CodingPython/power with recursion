@@ -1,0 +1,11 @@
+def power(n,m):
+    if m==0:
+        return 1
+    else:
+        return n*power(n,m-1) 
+        return power
+
+n=int(input("Enter the number :"))  
+p=int(input("Enter the power :"))  
+res=power(n,p)      
+print("The power of the number is :",res)

@@ -1,0 +1,12 @@
+#Bubble Sort
+
+L1=[20,24,84,45,70]
+n=len(L1)
+for i in range (n):
+    for j in range (n-1):
+        if (L1[j]>L1[j+1]):
+            temp=L1[j]
+            L1[j]=L1[j+1]
+            L1[j+1]=temp
+print("The sorting array is :-",L1)            
+        

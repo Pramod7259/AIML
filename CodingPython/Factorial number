@@ -1,0 +1,9 @@
+a=int(input("Enter the number :-"))
+fact=1
+count=1
+while count<=a:
+    fact=fact * count
+    count=count+1
+print("The factorial is",fact)
+
+    

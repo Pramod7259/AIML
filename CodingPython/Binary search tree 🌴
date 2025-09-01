@@ -1,0 +1,41 @@
+class Node:
+    def __init__ (self,item):
+        self.data=item
+        self.left=None
+        self.right=None
+        
+def pre(root):
+    if root:
+      print(root.data,end=" ") 
+      pre(root.left) 
+      pre(root.right) 
+
+    
+def ino(root):
+    if root:
+      ino(root.left) 
+      print(root.data,end=" ") 
+      ino(root.right)     
+ 
+def pos(root):
+    if root:
+      pos(root.left) 
+      pos(root.right)  
+      print(root.data,end=" ")    
+  
+print("Binary search tree is :") 
+root=Node(20)   
+root.left=Node(15)
+root.right=Node(25)  
+root.left.left=Node(10)
+root.left.right=Node(18) 
+root.right.left=Node(22) 
+root.right.right=Node(28)
+
+
+print("\nPreorder BST is :",end=" ")
+pre(root)
+print("\ninorder BST is :",end=" ") 
+ino(root)
+print("\n\nPostorder BST is:",end=" ") 
+pos(root)

@@ -1,0 +1,9 @@
+def tower_of_henoi(n,s,d,t):
+    if n==1:
+        print("Move the disk from source ",s,"to destination",d)
+    else:
+       tower_of_henoi(n-1,s,t,d)
+       print("Move disk",n,"from source","to destination",d)
+       tower_of_henoi(n-1,t,d,s)        
+n=2
+tower_of_henoi(n,'Source','Desination','Temp')    

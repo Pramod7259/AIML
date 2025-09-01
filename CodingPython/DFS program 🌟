@@ -1,0 +1,43 @@
+class Node:
+    def __init__ (self,item):
+        self.data=item
+        self.left=None
+        self.right=None
+        
+def pre(root):
+    if root is None:
+        return
+    print(root.data,end=" ") 
+    pre(root.left) 
+    pre(root.right) 
+
+    
+def ino(root):
+    if root is None:
+        return
+    ino(root.left) 
+    print(root.data,end=" ") 
+    ino(root.right)     
+ 
+def pos(root):
+    if root is None:
+        return
+    pos(root.left) 
+    pos(root.right)  
+    print(root.data,end=" ")    
+  
+ 
+root=Node(25)      
+root.left=Node(20)      
+root.right=Node(28)  
+root.left.left=Node(10)
+root.left.right=Node(15)
+root.right.left=Node(22)
+root.right.right=Node(30)
+
+print("Preorder DFS is :",end=" ")
+pre(root)
+print("\ninorder DFS is :",end=" ") 
+ino(root)
+print("\n\nPostorder DFS is:",end=" ") 
+pos(root)

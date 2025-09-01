@@ -1,0 +1,19 @@
+class Student:
+    def __init__ (self):
+        self.name=" "
+        self.regno=0
+        self.age=0
+    def set_values (self,n,r,a):
+        self.name=n
+        self.regno=r
+        self.age=a
+    def display (self):
+        print("The Name,RegNo ,Age of the Student is :-")
+        print("Name :-",self.name)
+        print("RegNo :-",self.regno)
+        print("Age :-",self.age)
+#Main Program 
+
+Student1=Student ()      
+Student1.set_values("Pramod",123,19)
+Student1.display()

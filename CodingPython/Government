@@ -1,0 +1,14 @@
+s1="Government Polytechnic"
+s2="Soraba"
+print(s1)
+print(s2)
+print("The length of s1 is :-",len(s1))
+print("The length of s2 is :-",len(s2))
+print("The reverse of s1 is :-",s1[::-1])
+print("The reverse of s2 is :-",s2[::-1])
+print("The first character in s1 is :-",s1[0])
+print("The last character but one is :-",s1[-2])
+print("The upper case of s1 is :-",s1.upper())
+print("The upper case of s1 is :-",s2.upper())
+print("The lower case of s1 is :-",s1.lower())
+print("The lower case of s2 is :-",s2.lower())

@@ -1,0 +1,8 @@
+#Statistical Numpy 
+import numpy as np
+n=np.arr([1,2,34,5,6,7,8,9])
+print("The Mean is :- ",np.mean(n))
+print("The Median is :-",np.medien(n))
+print("The Avareg is :-",np.avg(n))
+print("The Maximum is :-",np.max(n))
+print("The Minimum is :-",np.min(n))

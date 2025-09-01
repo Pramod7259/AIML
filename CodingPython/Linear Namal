@@ -1,0 +1,15 @@
+import time 
+a=[13,24,35,46,57,68,79]
+k=int(input("Enter the key element tu search :-"))
+start=time.time()
+flag=-1
+for i in range (len(a)):
+    if a[i] ==k:
+        flag=i
+        break
+if flag ==-1:
+    print("Search Unsuccessful")       
+else:
+    print("Search successful key found at location :",i+1)     
+end=time.time()
+print("The runtime is :-",end-start)

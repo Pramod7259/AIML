@@ -1,0 +1,20 @@
+import time
+start=time.time()
+def linear_search(a,key):
+    flag=-1
+    for i in range(len(a)):
+        if (key==a[i]):
+            flag=i
+            break
+    if (flag==-1):
+        print("Element is not found")
+    else:
+        print("Element is found at location :",i+1)     
+            
+a=[10,50,30,20,40] 
+
+print("The List is :",a)
+key=int(input("Enter the key element :"))  
+linear_search(a,key)  
+end=time.time()
+print("The run time is :",end-start)      

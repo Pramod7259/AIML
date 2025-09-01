@@ -1,0 +1,8 @@
+import numpy as np
+a=np.array([[12,23,34,45,56,67,78,89,90]])
+print(a)
+print("The sum is :-",np.add(a,95))
+print("The substraction is :-",np.prod(a)) 
+print("The division is :-",np.diff(a))
+print("The Maximum is :-",np.max(a))
+print("The Minimum is :-",np.min(a))

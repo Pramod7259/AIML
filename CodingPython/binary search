@@ -1,0 +1,20 @@
+def binary(a,key):
+          s=0
+          e=len(a)-1
+          while (s<=e):
+               mid=(e+s)//2
+               if a[mid]==key:
+                    return mid
+               elif key <a[mid]:
+                     e=mid-1
+               else:
+                   s=mid+1
+          return -1
+a=[10,50,20,40,30]           
+print("The array elements are :-",a)
+k=int(input("Enter the element :-"))
+r=binary(a,k)
+if r==-1:
+    print("Search is Unsuccessful")
+else:
+    print("Search is successful key found at location:-",r+1)    

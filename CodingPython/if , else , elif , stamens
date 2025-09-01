@@ -1,0 +1,10 @@
+a=int(input("Enter any number"))
+if a==1:
+    print("Guru")
+elif a==2:
+        print("Nayana")
+elif a==3:
+         print("Pramod")
+else:
+    print("Others")         
+        

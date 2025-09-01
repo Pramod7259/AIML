@@ -1,0 +1,23 @@
+s1=set()
+while(True):
+    print("1.ADD 2.DELETE  3.DISPLAY 4.SEARCH 5.EXITE")
+    choice=int(input("Enter your choice:-"))
+    if(choice==1):
+        a=input("Enter the value:")
+        s1.add(a)
+        print(s1)
+    elif(choice==2):
+       s1.pop()
+       print(s1)
+    elif(choice==3):
+       print(s1)
+    elif(choice==4):
+        key=input("Enter the item you search")
+        if key in s1:
+            print("Item is present")
+        else:
+            print("Item is not present") 
+    else:
+        break;        
+    
+        

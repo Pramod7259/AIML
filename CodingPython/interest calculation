@@ -1,0 +1,18 @@
+def simple_interest(principal, rate, time):
+    return (principal * rate * time) / 100
+
+def compound_interest(principal, rate, time):
+    return principal * (pow((1 + rate / 100), time)) - principal
+
+# Taking user input
+p = float(input("Enter Principal Amount: "))
+r = float(input("Enter Interest Rate (%): "))
+t = float(input("Enter Time (years): "))
+
+# Calculating Interests
+si = simple_interest(p, r, t)
+ci = compound_interest(p, r, t)
+
+# Displaying results
+print(f"\nSimple Interest: {si:.2f}")
+print(f"Compound Interest: {ci:.2f}")
