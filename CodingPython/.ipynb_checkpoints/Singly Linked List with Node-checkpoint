@@ -1,0 +1,50 @@
+class Node:
+    def __init__(self,d):
+        self.data=d
+        self.link=None
+class SLL:
+    def __init__(self):
+        self.first=None
+    def insert_begin(self,d):
+        temp=Node (d)  
+        temp.link=self.first
+        self.first=temp
+        print("The added element is :")
+    def remove_begin(self):
+        if (self.first==None):
+            print("List is Empty you can not remove ")    
+        else:
+            t=self.first
+            self.first=self.first.link
+            print("The deleted item is :",t.data)    
+    def display(self):
+        if (self.first==None):
+            print("List is empty")      
+        else:
+            cur=self.first
+            while (cur):
+                print(cur.data) 
+                cur=cur.link
+                
+#Main Program 
+s1=SLL()               
+s1.insert_begin(10)
+s1.display()
+s1.insert_begin(20)
+s1.display()
+s1.insert_begin(30)
+s1.display()
+s1.insert_begin(40)
+s1.display()
+
+s1.remove_begin()
+s1.display()
+s1.remove_begin()
+s1.display()
+s1.remove_begin()
+s1.display()
+s1.remove_begin()
+s1.display()
+s1.remove_begin()
+
+        
